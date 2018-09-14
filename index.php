@@ -225,15 +225,15 @@ function closeN() {
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <img src="n1.jpg" width="1200" height="500">
+  <img src="php_file/n1.jpg" width="1200" height="500">
 </div>
 
 <div class="mySlides fade">
- <img src="n2.jpg" width="1200" height="500">
+ <img src="php_file/n2.jpg" width="1200" height="500">
  </div>
 
 <div class="mySlides fade">
-<img src="n3.jpg" width="1200" height="500">
+<img src="php_file/n3.jpg" width="1200" height="500">
 </div>
 
 </div>
@@ -278,8 +278,8 @@ a:visited{color:blue;text-decoration:none}
 <a href="shubh.html">
 <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" border="0" src="php_file/n1.jpg" alt="Smiley" width="300" height="300"></a>
 <br>
-<h4 style="color:red">Price 100<a href="shubh.html">Shop Now</a></h4>
-<td></td>
+<h4 style="color:red">Price&nbsp:&nbsp100&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="shubh.html">Shop&nbspNow</a></h4>
+<td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</td>
 <td>
 <a href="shubh.html">
 <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" border="0" src="php_file/n2.jpg" alt="Smiley" width="300" height="300"></a>

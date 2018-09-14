@@ -277,9 +277,9 @@ a:visited{color:blue;text-decoration:none}
 <td>
 <a href="shubh.html">
 <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" border="0" src="n1.jpg" alt="Smiley" width="300" height="300">
+    </a>
 <br>
-<h4
-style="color:red">Price&nbsp:&nbsp100&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="shubh.html">Shop&nbspNow</h4>
+<h4 style="color:red">Price&nbsp:&nbsp100&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="shubh.html">Shop&nbspNow</a></h4>
 <td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</td>
 <td>
 <a href="shubh.html">

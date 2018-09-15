@@ -156,7 +156,7 @@ body {
 <div id="mySidebar" class="sidebar">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">x</a>
   <a href="#">About</a>
-  <a href="#">Register</a>
+  <a href="form.php">Register</a>
   <a href="#">Login</a>
   <a href="#">Contact</a>
   <a href="#">Track</a>

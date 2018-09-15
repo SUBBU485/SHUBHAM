@@ -20,15 +20,15 @@ background-size:1440px 750px;
 <h4 style="color:yellow">field marked as * are compulsory</h4>
 <h2>Form</h2>
 <label>Name:  *</label>
-<input class="input" name="name" type="text" value="">
+<input class="input" name="name" type="text" value="" style="background:powderblue" required>
 <br>
 <br>
 <label>Email:  *</label>
-<input class="input" name="email" type="text" value="">
+<input class="input" name="email" value="" style="background:powderblue" type="email" size="40"  required>
 <br>
 <br>
 <label>Contact:  *</label>
-<input class="input" name="contact" type="text" value="">
+<input class="input" name="contact" type="number" value="" style="background:powderblue" required>
 <br>
 <br>
 <label>Address:</label>

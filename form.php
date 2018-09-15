@@ -32,7 +32,7 @@ background-size:1440px 750px;
 <br>
 <br>
 <label>Address:</label>
-<textarea cols="25" name="address" rows="5"></textarea><br>
+<textarea cols="25" name="address" style="background:powderblue" ></textarea><br>
 <br>
 <br>
 <input class="submit" name="submit" type="submit" value="Insert">

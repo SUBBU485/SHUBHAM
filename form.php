@@ -18,6 +18,7 @@ background-image:url("n1.jpg");
 background-size:1440px 750px;
 }</style>
 <h4 style="color:yellow">field marked as * are compulsory</h4>
+<center>
 <h2>Form</h2>
 <label>Name:  *</label>
 <input class="input" name="name" type="text" value="" style="background:powderblue" required>
@@ -37,6 +38,7 @@ background-size:1440px 750px;
 <br>
 <input class="submit" name="submit" type="submit" value="Insert">
 </form>
+</center>
 </div>
 </div>
 </body>

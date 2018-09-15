@@ -23,7 +23,7 @@ background-size:1440px 750px;
 <br>
 <br>
 <label>Email:  *</label>
-<input class="input" name="email" value="" style="background:powderblue" type="email" size="40"  required>
+&nbsp&nbsp&nbsp&nbsp<input class="input" name="email" value="" style="background:powderblue" type="email" size="40"  required>
 <br>
 <br>
 <label>Contact:  *</label>
@@ -31,7 +31,7 @@ background-size:1440px 750px;
 <br>
 <br>
 <label>Address:</label>
-<textarea cols="25" name="address" style="background:powderblue" ></textarea><br>
+&nbsp&nbsp&nbsp<textarea cols="25" name="address" style="background:powderblue" ></textarea><br>
 <br>
 <br>
 <input class="submit" name="submit" type="submit" value="Insert">

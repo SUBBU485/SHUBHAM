@@ -17,8 +17,7 @@
 background-image:url("n2.jpg");
 background-size:1440px 750px;
 }</style>
-<h4 style="color:yellow">field marked as * are compulsory</h4>
-<h2>Form</h2>
+<h4 style="color:red">field marked as * are compulsory</h4>
 <label>Name:  *</label>
 <input class="input" name="name" type="text" value="" style="background:powderblue" required>
 <br>

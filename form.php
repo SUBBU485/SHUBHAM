@@ -27,7 +27,7 @@ background-size:1440px 750px;
 <br>
 <br>
 <label>Contact:  *</label>
-<input class="input" name="contact" type="number" value="" style="background:powderblue" required>
+&nbsp<input class="input" name="contact" type="number" value="" style="background:powderblue" required>
 <br>
 <br>
 <label>Address:</label>

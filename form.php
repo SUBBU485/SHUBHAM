@@ -13,12 +13,20 @@
 </div>
 <form action="insert.php" method="post">
 <!-- Method can be set as POST for hiding values in URL-->
+<style>body
+{
+background-image:url("n1.jpg");
+background-size:1440px 750px;
+}</style>
+<h4 style="color:yellow">field marked as * are compulsory</h4>
 <h2>Form</h2>
-<label>Name:</label>
+<label>Name:  *</label>
 <input class="input" name="name" type="text" value="">
-<label>Email:</label>
+<br>
+<label>Email:  *</label>
 <input class="input" name="email" type="text" value="">
-<label>Contact:</label>
+<br>
+<label>Contact:  *</label>
 <input class="input" name="contact" type="text" value="">
 <label>Address:</label>
 <textarea cols="25" name="address" rows="5"></textarea><br>

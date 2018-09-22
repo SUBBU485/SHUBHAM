@@ -19,6 +19,12 @@ img {vertical-align: middle;}
   max-width: 1000px;
   position: relative;
 }
+@media only screen and (max-width:500px) {
+  /* For mobile phones: */
+  .menu, .main, .right {
+    width: 100%;
+  }
+}
 
 /* The dots/bullets/indicators */
 .dot {

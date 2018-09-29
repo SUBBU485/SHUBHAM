@@ -109,7 +109,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			  </div>
 		</div>
 	</div>
-	<div id="demo" class="carousel slide" data-ride="carousel">
+	
+		<div id="demo" class="carousel slide" data-ride="carousel">
 	<div class="carousel-inner">
     <div class="carousel-item active">
       <div class="container">
@@ -159,12 +160,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
   <a class="carousel-control-next" href="#demo" data-slide="next">
     <span class="carousel-control-next-icon"></span>
   </a>
-   <div class="clearfix"></div>
-			 
+   <div class="clearfix"></div>		 
 </div>
+
+
 	<!-- //welcome section -->
 	<!-- team -->
-	<!--div class="team banner-bottom " id="team">
+	<!--<div class="team banner-bottom " id="team">
 		<div class="container">
 			<div class="team-head">
 				<h3>Our Designers</h3>
@@ -238,8 +240,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="clearfix"> </div>
 			</div>
-		</div>
+		</div>-->
+	
+	
 	</div>
+
+
 <!-- //team -->
 <!-- gallery -->
 	<!--div class="gallery" id="gallery">
@@ -343,7 +349,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</div>
 				</div-->  
 				
-				<div class="clearfix"> </div>
+				<!--div class="clearfix"> </div>
 			</div>
 			</div>
 	</div>

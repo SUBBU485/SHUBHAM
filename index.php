@@ -111,6 +111,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	</div>
 	
 <div class="container">
+	<div class="team-head">
+				<h3>Our Designers</h3>
+			</div>
 <div id="demo" class="carousel slide" data-ride="carousel">
 	<div class="carousel-inner">
     <div class="carousel-item active">

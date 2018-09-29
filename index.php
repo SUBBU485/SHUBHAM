@@ -180,7 +180,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	</div>
 <!-- //team -->
 <!-- gallery -->
-	<!--div class="gallery" id="gallery">
+	<div class="gallery" id="gallery">
 	 <div class="heading">
 				<h3>Our Gallery</h3>
 			</div>
@@ -202,8 +202,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="gallery-grids-row">
 				<div class="col-md-3 gallery-grid">
 					<div class="wpf-demo-4">  
-						<a href="jpeg(1).jpg" class="jzBoxLink item-hover" title="Education">  
-							<img src="jpeg(1).jpg" alt=" " class="img-responsive" />
+						<a href="finalCover1.png" class="jzBoxLink item-hover" title="Education">  
+							<img src="finalCover1.png" alt=" " class="img-responsive" />
 							<div class="view-caption">
 								<p>Full View</p>
 							</div> 
@@ -212,8 +212,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="col-md-3 gallery-grid">
 					<div class="wpf-demo-4">  
-						<a href="IMG_1648.jpg" class="jzBoxLink item-hover" title="Education">  
-							<img src="IMG_1648.jpg" alt=" " class="img-responsive" />
+						<a href="finalCover2.png" class="jzBoxLink item-hover" title="Education">  
+							<img src="finalCover2.png" alt=" " class="img-responsive" />
 							<div class="view-caption">
 								<p>Full View</p>
 							</div> 
@@ -222,8 +222,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="col-md-3 gallery-grid">
 					<div class="wpf-demo-4">  
-						<a href="football_300.jpg" class="jzBoxLink item-hover" title="Education">  
-							<img src="football_300.jpg" alt=" " class="img-responsive" />
+						<a href="finalCover3.png" class="jzBoxLink item-hover" title="Education">  
+							<img src="finalCover3.png" alt=" " class="img-responsive" />
 							<div class="view-caption">
 								<p>Full View</p>
 							</div> 
@@ -232,8 +232,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="col-md-3 gallery-grid">
 					<div class="wpf-demo-4">  
-						<a href="IMG_164511.jpg" class="jzBoxLink item-hover" title="Education">  
-							<img src="IMG_164511.jpg" alt=" " class="img-responsive" />
+						<a href="finalCover4.png" class="jzBoxLink item-hover" title="Education">  
+							<img src="finalCover4.png" alt=" " class="img-responsive" />
 							<div class="view-caption">
 								<p>Full View</p>
 							</div> 

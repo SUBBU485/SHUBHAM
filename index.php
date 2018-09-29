@@ -34,17 +34,60 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     .carousel-inner img {
       width: 100%;
       height: 100%;
-  }</style>
+  }
+    body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: white;
+}
+
+.topnav a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.topnav-right {
+  float: right;
+}
+    
+    
+    
+    </style>
 </head>
 <body>
 <!-- Header -->
-    <h1><a href="index.html"><img src="logo.jpg" style="width:200px;height:75px;"></a></h1>
+    <!--h1><a href="index.html"><img src="logo.jpg" style="width:200px;height:75px;"></a></h1-->
 <div class="banner-top">
+    <div class="topnav">
+  <img src="logo.jpg" style="width:200px;height:75px;" >
+  <div class="topnav-right">
+    <a href="#search">Search</a>
+    <a href="#about">About</a>
+  </div>
+</div>
 		<!--div class="logo">
 			<h1><a href="index.html"><img src="logo.jpg" width="10%" height="10%"</a></h1>
 		</div>
 		<!-- Navigation -->
-		<div class="container">
+		<!--div class="container">
 			<div class="menu">
 					<div class="overlay-navigation">
 						<nav role="navigation">

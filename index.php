@@ -10,8 +10,8 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="Soft Decor Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
-Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony Ericsson, Motorola web design" />
+<meta name="keywords" content="Designs,Designers,Graphic designers,design based products,cheap products" />
+<meta name="description" content="YourArt is all about creative designs and good quality products at reasonable prices. It is a platform where designers can showcase their creative and unique designs. We make good quality products with the use of these designs and sell them at reasonable rates.">
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
 		function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!-- //for-mobile-apps -->
@@ -79,10 +79,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     <div class="topnav">
   <img src="logo.jpg" style="width:200px;height:75px;" >
   <div class="topnav-right">
-      <a href="#about"><b>About</b></a>
-      <a href="#team"><b>Designers</b></a>
-        <a href="#gallery"><b>Gallery</b></a>
-      <a href="#foot"><b>Contacts</b></a>
+      <a href="#about"><b>ABOUT</b></a>
+      <a href="#team"><b>DESIGNERS</b></a>
+        <a href="#gallery"><b>GALLERY</b></a>
+      <a href="#foot"><b>CONTACT US</b></a>
   </div>
 </div>
 		<!--div class="logo">
@@ -164,17 +164,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     <div class="carousel-item active">
       <div class="container">
       	<div class="row">
-        	<div class="col-md-3 col-xs-6">
+        	<div class="col-md-4 col-xs-4">
             <img src="SURABHIFINAL.jpg" alt="Chicago" width="1100" height="500">
             </div>
-            <div class="col-md-3 col-xs-6">
+            <div class="col-md-4 col-xs-4">
             <img src="IMG-20171215-WA0014.jpg" alt="Chicago" width="1100" height="500">
             </div>
-            <div class="col-md-3 col-xs-6">
+            <div class="col-md-4 col-xs-4">
             <img src="IMG_8918.jpg" alt="Chicago" width="1100" height="500">
-            </div>
-            <div class="col-md-3 col-xs-6">
-            <img src="asdr.jpg" alt="Chicago" width="1100" height="500">
             </div>
         </div>
         <div class="clearfix"></div>	
@@ -183,8 +180,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     <div class="carousel-item">
          <div class="container">
       	<div class="row">
-        	<div class="col-md-3 col-xs-6">
-            <img src="SURABHIFINAL.jpg" alt="Chicago" width="1100" height="500">
+        	<div class="col-md-4 col-xs-4">
+            <img src="asdr.jpg" alt="Chicago" width="1100" height="500">
             </div>
             <div class="col-md-3 col-xs-6">
             <img src="IMG-20171215-WA0014.jpg" alt="Chicago" width="1100" height="500">
@@ -192,13 +189,26 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
             <div class="col-md-3 col-xs-6">
             <img src="IMG_8918.jpg" alt="Chicago" width="1100" height="500">
             </div>
-            <div class="col-md-3 col-xs-6">
-            <img src="asdr.jpg" alt="Chicago" width="1100" height="500">
-            </div>
         </div>
         <div class="clearfix"></div>	
       </div>
     </div>
+    <div class="carousel-item">
+         <div class="container">
+      	<div class="row">
+        	<div class="col-md-4 col-xs-4">
+            <img src="asdr.jpg" alt="Chicago" width="1100" height="500">
+            </div>
+            <div class="col-md-3 col-xs-6">
+            <img src="IMG-20171215-WA0014.jpg" alt="Chicago" width="1100" height="500">
+            </div>
+            <div class="col-md-3 col-xs-6">
+            <img src="IMG_8918.jpg" alt="Chicago" width="1100" height="500">
+            </div>
+        </div>
+        <div class="clearfix"></div>
+        </div>
+        </div>
   </div>
   
   <!-- Left and right controls -->

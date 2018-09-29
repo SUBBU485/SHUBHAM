@@ -110,7 +110,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		</div>
 	</div>
 	
-<div id="demo" class="container carousel slide" data-ride="carousel">
+<div class="container">
+<div class="jumbotron">
+<div id="demo" class="carousel slide" data-ride="carousel">
 	<div class="carousel-inner">
     <div class="carousel-item active">
       <div class="container">
@@ -162,6 +164,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
   <a class="carousel-control-next" href="#demo" data-slide="next">
     <span class="carousel-control-next-icon"></span>
   </a>	 
+</div>
+</div>
 </div>
 
 
@@ -249,7 +253,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 <!-- //team -->
 <!-- gallery -->
-	<!--div class="gallery" id="gallery">
+	<div class="gallery" id="gallery">
 	 <div class="heading">
 				<h3>Our Gallery</h3>
 			</div>
@@ -309,6 +313,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</a>    			
 					</div>
 				</div>
+         </div>
+        </div>
+    </div>
 				<!--div class="col-md-3 gallery-grid">
 					<div class="wpf-demo-4">  
 						<a href="jpeg(1).jpg" class="jzBoxLink item-hover" title="Education">  
@@ -360,7 +367,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<div class="container">
 			<div class="footer-row">
 				<div class="col-md-3 footer-grids footer-address">
-					<h3><a href="#"><span>YOUR ART</a></h3>
+                    <h3><a href="#"><span>YOUR ART</span> </a>
+					</h3>
 				</div>
 				<div class="col-md-6 footer-grids subscribe">
 					<form action="#" method="post">
@@ -412,7 +420,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 			</div>
 			<div class="footer-bottom">
-			<p>© 2018 YourArt. All rights reserved</a></p>
+			<p>© 2018 YourArt. All rights reserved</p>
 
 			</div>
 		</div>

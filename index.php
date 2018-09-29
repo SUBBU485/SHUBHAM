@@ -183,10 +183,10 @@
         	<div class="col-md-4 col-xs-4">
             <img src="asdr.jpg" alt="Chicago" width="1100" height="500">
             </div>
-            <div class="col-md-3 col-xs-6">
+            <div class="col-md-4 col-xs-4">
             <img src="IMG-20171215-WA0014.jpg" alt="Chicago" width="1100" height="500">
             </div>
-            <div class="col-md-3 col-xs-6">
+            <div class="col-md-4 col-xs-4">
             <img src="IMG_8918.jpg" alt="Chicago" width="1100" height="500">
             </div>
         </div>
@@ -199,10 +199,10 @@
         	<div class="col-md-4 col-xs-4">
             <img src="asdr.jpg" alt="Chicago" width="1100" height="500">
             </div>
-            <div class="col-md-3 col-xs-6">
+            <div class="col-md-4 col-xs-4">
             <img src="IMG-20171215-WA0014.jpg" alt="Chicago" width="1100" height="500">
             </div>
-            <div class="col-md-3 col-xs-6">
+            <div class="col-md-4 col-xs-4">
             <img src="IMG_8918.jpg" alt="Chicago" width="1100" height="500">
             </div>
         </div>

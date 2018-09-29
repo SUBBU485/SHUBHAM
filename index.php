@@ -84,16 +84,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					  <h3>Welcome</h3>
 					  
 					  <h4>Who are we?</h4>
-					  <p>YourArt is all about creative designs and good quality products at reasonable prices.It is a platform where designers can showcase their creative and unique designs.We make good quality products with the use of these designs and sell them at reasonable rates.</p>
+					  <p>YourArt is all about creative designs and good quality products at reasonable prices. It is a platform where designers can showcase their creative and unique designs. We make good quality products with the use of these designs and sell them at reasonable rates.</p>
 					 <p>We are here to provide you with our attractive designer notebooks which you'd love to buy.</p>
 				
 				 </div>
 				 <div class="col-md-6 welcome_pic">
 					 <!--img src="n1.jpg" class="img-responsive" alt=""/-->
 					 <h3>What are our goals?</h3>
-					 <p>We aim to collaborate with designers who have good creative skills and can make unique designs which people would love.We want to help them grow by showcasing their skills.</p>
-					 <p>We also want to reduce the price of notebooks.This would enable the youth to get good unique notebooks at reasonable prices.We have tried to utilize the unused pages and covers on notebooks to help companies promote their brands.</p>
-                     <p>We also want to aim youth based startups and companies as it would be beneficial for them to target their potential customers through this way of marketing</p>
+					 <p>We aim to collaborate with designers who have good creative skills and can make unique designs which people would love. We want to help them grow by showcasing their skills.</p>
+					 <p>We also want to reduce the price of notebooks. This would enable the youth to get good unique notebooks at reasonable prices. We have tried to utilize the unused pages and covers on notebooks to help companies promote their brands.</p>
+                     <p>We also want to aim youth based startups and companies as it would be beneficial for them to target their potential customers through this way of marketing.</p>
 				 </div>
 				 <div class="clearfix"></div>
 			  </div>

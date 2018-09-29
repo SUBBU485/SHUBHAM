@@ -158,6 +158,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
   <a class="carousel-control-next" href="#demo" data-slide="next">
     <span class="carousel-control-next-icon"></span>
   </a>
+   <div class="clearfix"></div>
+			  </div>
 </div>
 	<!-- //welcome section -->
 	<!-- team -->

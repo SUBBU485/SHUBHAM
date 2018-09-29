@@ -82,7 +82,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     <a href="#search">Search</a>
     <a href="#about">About</a>
   </div>
-</div><br>
+</div>
 		<!--div class="logo">
 			<h1><a href="index.html"><img src="logo.jpg" width="10%" height="10%"</a></h1>
 		</div>
@@ -107,7 +107,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		</div>
 		<!-- //Navigation -->
 		<!-- banner-slider -->
-	
+	<br>
 			<video width="1400" height="540" autoplay controls>
   <source src="yourfinalvid11.mp4" type="video/mp4">
   <source src="yourfinalvid11.ogg" type="video/ogg">

@@ -128,6 +128,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
             <img src="asdr.jpg" alt="Chicago" width="1100" height="500">
             </div>
         </div>
+        <div class="clearfix"></div>	
       </div>
     </div>
     <div class="carousel-item">
@@ -146,6 +147,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
             <img src="asdr.jpg" alt="Chicago" width="1100" height="500">
             </div>
         </div>
+        <div class="clearfix"></div>	
       </div>
     </div>
     <div class="carousel-item">
@@ -159,8 +161,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
   </a>
   <a class="carousel-control-next" href="#demo" data-slide="next">
     <span class="carousel-control-next-icon"></span>
-  </a>
-   <div class="clearfix"></div>		 
+  </a>	 
 </div>
 
 

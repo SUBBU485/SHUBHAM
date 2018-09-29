@@ -111,7 +111,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	</div>
 	
 <div class="container">
-<div class="jumbotron">
 <div id="demo" class="carousel slide" data-ride="carousel">
 	<div class="carousel-inner">
     <div class="carousel-item active">
@@ -152,9 +151,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
         <div class="clearfix"></div>	
       </div>
     </div>
-    <div class="carousel-item">
-      <img src="ny.jpg" alt="New York" width="1100" height="500">
-    </div>
   </div>
   
   <!-- Left and right controls -->
@@ -164,7 +160,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
   <a class="carousel-control-next" href="#demo" data-slide="next">
     <span class="carousel-control-next-icon"></span>
   </a>	 
-</div>
 </div>
 </div>
 

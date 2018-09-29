@@ -79,10 +79,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     <div class="topnav">
   <img src="logo.jpg" style="width:200px;height:75px;" >
   <div class="topnav-right">
-    <a href="#about">About</a>
-    <a href="#team">Designers</a>
-    <a href="#gallery">Gallery</a>
-    <a href="#foot">Contacts</a>
+      <a href="#about"><b>About</b></a>
+      <a href="#team"><b>Designers</b></a>
+        <a href="#gallery"><b>Gallery</b></a>
+      <a href="#foot"><b>Contacts</b></a>
   </div>
 </div>
 		<!--div class="logo">

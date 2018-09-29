@@ -3,6 +3,11 @@
 <head>
 <title>YOURART</title>
 <!-- for-mobile-apps -->
+<meta charset="utf-8">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Soft Decor Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
@@ -25,7 +30,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		video {
     max-width: 100%;
     height: auto;
-            }</style>
+            }
+    .carousel-inner img {
+      width: 100%;
+      height: 100%;
+  }</style>
 </head>
 <body>
 <!-- Header -->
@@ -100,9 +109,59 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			  </div>
 		</div>
 	</div>
+	<div class="carousel-inner">
+    <div class="carousel-item active">
+      <div class="container">
+      	<div class="row">
+        	<div class="col-md-3 col-xs-6">
+            <img src="SURABHIFINAL.jpg" alt="Chicago" width="1100" height="500">
+            </div>
+            <div class="col-md-3 col-xs-6">
+            <img src="IMG-20171215-WA0014.jpg" alt="Chicago" width="1100" height="500">
+            </div>
+            <div class="col-md-3 col-xs-6">
+            <img src="IMG_8918.jpg" alt="Chicago" width="1100" height="500">
+            </div>
+            <div class="col-md-3 col-xs-6">
+            <img src="asdr.jpg" alt="Chicago" width="1100" height="500">
+            </div>
+        </div>
+      </div>
+    </div>
+    <div class="carousel-item">
+         <div class="container">
+      	<div class="row">
+        	<div class="col-md-3 col-xs-6">
+            <img src="SURABHIFINAL.jpg" alt="Chicago" width="1100" height="500">
+            </div>
+            <div class="col-md-3 col-xs-6">
+            <img src="IMG-20171215-WA0014.jpg" alt="Chicago" width="1100" height="500">
+            </div>
+            <div class="col-md-3 col-xs-6">
+            <img src="IMG_8918.jpg" alt="Chicago" width="1100" height="500">
+            </div>
+            <div class="col-md-3 col-xs-6">
+            <img src="asdr.jpg" alt="Chicago" width="1100" height="500">
+            </div>
+        </div>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="ny.jpg" alt="New York" width="1100" height="500">
+    </div>
+  </div>
+  
+  <!-- Left and right controls -->
+  <a class="carousel-control-prev" href="#demo" data-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+  </a>
+  <a class="carousel-control-next" href="#demo" data-slide="next">
+    <span class="carousel-control-next-icon"></span>
+  </a>
+</div>
 	<!-- //welcome section -->
 	<!-- team -->
-	<div class="team banner-bottom " id="team">
+	<!--div class="team banner-bottom " id="team">
 		<div class="container">
 			<div class="team-head">
 				<h3>Our Designers</h3>

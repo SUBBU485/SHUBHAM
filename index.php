@@ -83,7 +83,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				 <div class="col-md-6 welcome_info">
 					  <h3>Welcome</h3>
 					  
-					  <h4>Who are we?</h4>
+					  <h4>Who we are?</h4>
 					  <p>YourArt is all about creative designs and good quality products at reasonable prices. It is a platform where designers can showcase their creative and unique designs. We make good quality products with the use of these designs and sell them at reasonable rates.</p>
 					 <p>We are here to provide you with our attractive designer notebooks which you'd love to buy.</p>
 				

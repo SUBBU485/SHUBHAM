@@ -10,8 +10,11 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="Designs,Designers,Graphic designers,design based products,cheap products" />
+<meta name="keywords" content="Designs yourart,Designers yourart,Graphic designers yourart,design based products youart,cheap products yourart" />
 <meta name="description" content="YourArt is all about creative designs and good quality products at reasonable prices. It is a platform where designers can showcase their creative and unique designs. We make good quality products with the use of these designs and sell them at reasonable rates.">
+<meta name="robots" content="index, follow">
+<meta name="google-site-verification" content="QgYpKsAX18myxwsLy7xYCIW4WVmfRag" />
+<meta name="p:domain_verify" content="5b08b9eba534c88db81e" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
 		function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!-- //for-mobile-apps -->

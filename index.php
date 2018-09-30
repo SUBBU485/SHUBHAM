@@ -88,7 +88,7 @@
   }
         #collapsibleNavbar{
             position:relative;
-            right:-600px;
+            right:-400px;
         }
         @media screen and (max-width:720px){
             #collapsibleNavbar{

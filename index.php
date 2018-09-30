@@ -75,10 +75,17 @@
             background-color: 'white';
             
         }
-        .navtext{
-            color:'black';
-            font-weight: '900';
-        }
+        .navbar li a, .navbar{ 
+          color: #000000 !important;
+      }
+    .navbar-nav li a:hover {
+          color: #fff !important;
+        background-color: #000 !important;
+      }
+  .navbar-nav li.active a {
+      color: #fff !important;
+      background-color: #29292c !important;
+  }
     </style>
 </head>
 <body>
@@ -102,8 +109,8 @@
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
     <span class="navbar-toggler-icon navtext"></span>
   </button>
-  <div class="collapse navbar-collapse" id="collapsibleNavbar">
-    <ul class="navbar-nav navbar-right">
+  <div class="collapse navbar-collapse align-content-end"  id="collapsibleNavbar">
+    <ul class="navbar-nav">
       <li class="nav-item">
         <a class="nav-link navtext" href="#about">ABOUT</a>
       </li>

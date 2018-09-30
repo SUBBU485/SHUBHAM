@@ -207,7 +207,7 @@
             <img src="shubham.JPG" alt="Chicago" width="1100" height="500">
             </div>
             <div class="col-md-4 col-xs-4">
-            <img src="shubham.jpg" alt="Chicago" width="1100" height="500">
+            <img src="ashu.jpg" alt="Chicago" width="1100" height="500">
             </div>
         </div>
         <div class="clearfix"></div>

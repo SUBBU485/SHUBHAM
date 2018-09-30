@@ -86,6 +86,10 @@
       color: #fff !important;
       background-color: #29292c !important;
   }
+        #collapsibleNavbar{
+            position:absolute;
+            right:0px;
+        }
     </style>
 </head>
 <body>
@@ -107,9 +111,9 @@
  <nav class="navbar navbar-expand-md ">
   <a class="navbar-brand" href="#"><img src="newlogo.png" style="width:200px;height:75px;margin-top:-20px;margin-left:-10px" ></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
-    <span class="navbar-toggler-icon navtext"></span>
+    <span class="navbar-toggler-icon" style="color:black"></span>
   </button>
-  <div class="collapse navbar-collapse align-content-end"  id="collapsibleNavbar">
+  <div class="collapse navbar-collapse"  id="collapsibleNavbar">
     <ul class="navbar-nav">
       <li class="nav-item">
         <a class="nav-link navtext" href="#about">ABOUT</a>

@@ -213,13 +213,13 @@
       <div class="container">
       	<div class="row">
         	<div class="col-md-4 col-xs-4">
-            <img src="SURABHIFINAL.jpg" alt="Chicago" width="1100" height="400">
+            <img src="SURABHIFINAL.jpg" alt="Chicago" width="1100" height="300">
             </div>
             <div class="col-md-4 col-xs-4">
-            <img src="asdr.jpg" alt="Chicago" width="1100" height="400">
+            <img src="asdr.jpg" alt="Chicago" width="1100" height="300">
             </div>
             <div class="col-md-4 col-xs-4">
-            <img src="IMG_8918.jpg" alt="Chicago" width="1100" height="400">
+            <img src="IMG_8918.jpg" alt="Chicago" width="1100" height="300">
             </div>
         </div>
         <div class="clearfix"></div>	
@@ -229,13 +229,13 @@
          <div class="container">
       	<div class="row">
         	<div class="col-md-4 col-xs-4">
-            <img src="IMG-20171215-WA0014.jpg" alt="Chicago" width="1100" height="400">
+            <img src="IMG-20171215-WA0014.jpg" alt="Chicago" width="1100" height="300">
             </div>
             <div class="col-md-4 col-xs-4">
-            <img src="raaa.jpg" alt="Chicago" width="1100" height="400">
+            <img src="raaa.jpg" alt="Chicago" width="1100" height="300">
             </div>
             <div class="col-md-4 col-xs-4">
-            <img src="yash.jpg" alt="Chicago" width="1100" height="400">
+            <img src="yash.jpg" alt="Chicago" width="1100" height="300">
             </div>
         </div>
         <div class="clearfix"></div>	
@@ -245,13 +245,13 @@
          <div class="container">
       	<div class="row">
         	<div class="col-md-4 col-xs-4">
-            <img src="mohit.jpg" alt="Chicago" width="1100" height="400">
+            <img src="mohit.jpg" alt="Chicago" width="1100" height="300">
             </div>
             <div class="col-md-4 col-xs-4">
-            <img src="shubham.JPG" alt="Chicago" width="1100" height="400">
+            <img src="shubham.JPG" alt="Chicago" width="1100" height="300">
             </div>
             <div class="col-md-4 col-xs-4">
-            <img src="ashu.JPG" alt="Chicago" width="1100" height="400">
+            <img src="ashu.JPG" alt="Chicago" width="1100" height="300">
             </div>
         </div>
         <div class="clearfix"></div>

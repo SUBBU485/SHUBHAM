@@ -115,7 +115,7 @@
   </div>
 </div-->
     
- <nav class="navbar navbar-expand-md navbar-light navbar-fixed-top">
+ <nav class="navbar navbar-expand-md navbar-light">
   <a class="navbar-brand" href="#"><img src="newlogo.png" style="width:200px;height:75px;margin-top:-20px;margin-left:-10px" ></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
     <span class="navbar-toggler-icon" style="color:black"></span>

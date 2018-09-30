@@ -82,6 +82,7 @@
     <div class="topnav">
   <img src="logo.jpg" style="width:200px;height:75px;" >
   <div class="topnav-right">
+     <br>
       <a href="#about"><b><font size="4">ABOUT</font></b></a>
       <a href="#team"><b><font size="4">DESIGNERS</font></b></a>
       <a href="#gallery"><b><font size="4">GALLERY</font></b></a>
@@ -160,7 +161,7 @@
 	
 <div class="container" id="team">
 	<div class="team-head">
-				<h3>Our Designers</h3>
+				<h3>Our Team</h3>
 			</div>
 <div id="demo" class="carousel slide" data-ride="carousel">
 	<div class="carousel-inner">

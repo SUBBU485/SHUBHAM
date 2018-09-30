@@ -70,6 +70,12 @@
 .topnav-right {
   float: right;
 }
+
+        .navbar{
+            background-color: 'white';
+            color: 'black';
+            font-weight: '900';
+        }
     </style>
 </head>
 <body>
@@ -88,21 +94,21 @@
   </div>
 </div-->
     
- <nav class="navbar navbar-expand-md bg-dark navbar-dark">
-  <a class="navbar-brand" href="#">Navbar</a>
+ <nav class="navbar navbar-expand-md ">
+  <a class="navbar-brand" href="#"><img src="newlogo.png" style="width:200px;height:75px;" ></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="collapsibleNavbar">
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a class="nav-link" href="#">Link</a>
+        <a class="nav-link" href="#about">ABOUT</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Link</a>
+        <a class="nav-link" href="#team">TEAM</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Link</a>
+        <a class="nav-link" href="#foot">CONTACT US</a>
       </li>    
     </ul>
   </div>  
@@ -132,7 +138,6 @@
 		</div>
 		<!-- //Navigation -->
 		<!-- banner-slider -->
-	<br>
 			<video width="1400" height="540" autoplay controls>
   <source src="yourfinalvid11.mp4" type="video/mp4">
   <source src="yourfinalvid11.ogg" type="video/ogg">

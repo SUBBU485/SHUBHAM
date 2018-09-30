@@ -73,7 +73,10 @@
 
         .navbar{
             background-color: 'white';
-            color: 'black';
+            
+        }
+        .navtext{
+            color:'black';
             font-weight: '900';
         }
     </style>
@@ -97,18 +100,18 @@
  <nav class="navbar navbar-expand-md ">
   <a class="navbar-brand" href="#"><img src="newlogo.png" style="width:200px;height:75px;margin-top:-20px;margin-left:-10px" ></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
-    <span class="navbar-toggler-icon"></span>
+    <span class="navbar-toggler-icon navtext"></span>
   </button>
   <div class="collapse navbar-collapse" id="collapsibleNavbar">
-    <ul class="navbar-nav">
+    <ul class="navbar-nav navbar-right">
       <li class="nav-item">
-        <a class="nav-link" href="#about">ABOUT</a>
+        <a class="nav-link navtext" href="#about">ABOUT</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#team">TEAM</a>
+        <a class="nav-link navtext" href="#team">TEAM</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#foot">CONTACT US</a>
+        <a class="nav-link navtext" href="#foot">CONTACT US</a>
       </li>    
     </ul>
   </div>  

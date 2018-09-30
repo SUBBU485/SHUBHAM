@@ -87,7 +87,7 @@
       background-color: #29292c !important;
   }
         #collapsibleNavbar{
-            position:relative;
+            position:absolute;
             right:0px;
         }
     </style>

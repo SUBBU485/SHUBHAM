@@ -82,10 +82,10 @@
     <div class="topnav">
   <img src="logo.jpg" style="width:200px;height:75px;" >
   <div class="topnav-right">
-      <a href="#about"><b>ABOUT</b></a>
-      <a href="#team"><b>DESIGNERS</b></a>
-        <a href="#gallery"><b>GALLERY</b></a>
-      <a href="#foot"><b>CONTACT US</b></a>
+      <a href="#about"><b><font size="3">ABOUT</font></b></a>
+      <a href="#team"><b><font size="3">DESIGNERS</font></b></a>
+      <a href="#gallery"><b><font size="3">GALLERY</font></b></a>
+      <a href="#foot"><b><font size="3">CONTACT US</font></b></a>
   </div>
 </div>
 		<!--div class="logo">

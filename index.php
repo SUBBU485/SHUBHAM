@@ -95,7 +95,7 @@
 </div-->
     
  <nav class="navbar navbar-expand-md ">
-  <a class="navbar-brand" href="#"><img src="newlogo.png" style="width:200px;height:75px;" ></a>
+  <a class="navbar-brand" href="#"><img src="newlogo.png" style="width:200px;height:75px;margin-top:-20px;" ></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
     <span class="navbar-toggler-icon"></span>
   </button>

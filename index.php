@@ -71,15 +71,37 @@
   float: right;
 }
     
-    
-    
+.navbar {
+      font-family: Montserrat, sans-serif;
+      margin-bottom: 0;
+      background-color: 'white';
+      border: 0;
+      font-size: 11px !important;
+      letter-spacing: 4px;
+      opacity: 0.9;
+  }
+  .navbar li a, .navbar .navbar-brand { 
+      color: #d5d5d5 !important;
+  }
+  .navbar-nav li a:hover {
+      color: 'black' !important;
+  }
+  .navbar-nav li.active a {
+      color: #fff !important;
+      background-color: #29292c !important;
+  }
+  .navbar-default .navbar-toggle {
+      border-color: transparent;
+  }
+
     </style>
 </head>
 <body>
 <!-- Header -->
     <!--h1><a href="index.html"><img src="logo.jpg" style="width:200px;height:75px;"></a></h1-->
 <div class="banner-top">
-    <div class="topnav">
+   
+    <!--div class="topnav">
   <img src="newlogo.png" style="width:200px;height:75px;" >
   <div class="topnav-right">
      <br>
@@ -88,7 +110,29 @@
       <a href="#gallery"><b><font size="4">GALLERY</font></b></a>
       <a href="#foot"><b><font size="4">CONTACT US</font></b></a>
   </div>
-</div>
+</div-->
+    
+ <nav class="navbar navbar-default navbar-fixed-top">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="#myPage"><img src="newlogo.png" style="width:200px;height:75px;" ></a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#myPage">HOME</a></li>
+        <li><a href="#band">BAND</a></li>
+        <li><a href="#tour">TOUR</a></li>
+        <li><a href="#contact">CONTACT</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+    
 		<!--div class="logo">
 			<h1><a href="index.html"><img src="logo.jpg" width="10%" height="10%"</a></h1>
 		</div>

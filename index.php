@@ -73,12 +73,9 @@
     
 .navbar {
       font-family: Montserrat, sans-serif;
-      margin-bottom: 0;
       background-color: 'white';
-      border: 0;
       font-size: 11px !important;
       letter-spacing: 4px;
-      opacity: 0.9;
   }
   .navbar li a, .navbar .navbar-brand { 
       color: #d5d5d5 !important;
@@ -89,9 +86,6 @@
   .navbar-nav li.active a {
       color: #fff !important;
       background-color: #29292c !important;
-  }
-  .navbar-default .navbar-toggle {
-      border-color: transparent;
   }
 
     </style>

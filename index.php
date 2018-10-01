@@ -217,7 +217,7 @@
       <div class="container">
       	<div class="row">
         	<div class="col-md-4 col-xs-4">
-           <div style="border:1px solid black; padding:3px;border-radius:8px;"><center>
+           <div style="border:1px solid black; padding:3px;border-radius:6px;"><center>
            <div style="width:80%;text-align:center">
             <img src="SURABHIFINAL.jpg" alt="Chicago" width="100%">
             </div>
@@ -226,7 +226,7 @@
             </div>
             </div>
             <div class="col-md-4 col-xs-4">
-            <div style="border:1px solid black; padding:3px;border-radius:8px;"><center>
+            <div style="border:1px solid black; padding:3px;border-radius:6px;"><center>
            <div style="width:80%;text-align:center">
             <img src="asdr.jpg" alt="Chicago" width="1100" height="500">
                 </div>
@@ -235,7 +235,7 @@
                 </div>
             </div>
             <div class="col-md-4 col-xs-4">
-              <div style="border:1px solid black; padding:3px;border-radius:8px;"><center>
+              <div style="border:1px solid black; padding:3px;border-radius:6px;"><center>
            <div style="width:80%;text-align:center">
             <img src="IMG_8918.jpg" alt="Chicago" width="1100" height="500">
             </div>
@@ -250,7 +250,7 @@
          <div class="container">
       	<div class="row">
         	<div class="col-md-4 col-xs-4">
-            <div style="border:1px solid black; padding:3px;border-radius:8px;"><center>
+            <div style="border:1px solid black; padding:3px;border-radius:6px;"><center>
            <div style="width:80%;text-align:center">
             <img src="IMG-20171215-WA0014.jpg" alt="Chicago" width="1100" height="500">
             </div>
@@ -258,7 +258,7 @@
             </div>
             </div>
             <div class="col-md-4 col-xs-4">
-              <div style="border:1px solid black; padding:3px;border-radius:8px;"><center>
+              <div style="border:1px solid black; padding:3px;border-radius:6px;"><center>
            <div style="width:80%;text-align:center">
             <img src="raaa.jpg" alt="Chicago" width="1100" height="500">
             </div>
@@ -266,7 +266,7 @@
             </div>
             </div>
             <div class="col-md-4 col-xs-4">
-            <div style="border:1px solid black; padding:3px;border-radius:8px;"><center>
+            <div style="border:1px solid black; padding:3px;border-radius:6px;"><center>
            <div style="width:80%;text-align:center">
             <img src="yash.jpg" alt="Chicago" width="1100" height="500">
             </div>
@@ -281,7 +281,7 @@
          <div class="container">
       	<div class="row">
         	<div class="col-md-4 col-xs-4">
-            <div style="border:1px solid black; padding:3px;border-radius:8px;"><center>
+            <div style="border:1px solid black; padding:3px;border-radius:6px;"><center>
            <div style="width:80%;text-align:center">
             <img src="mohit.jpg" alt="Chicago" width="1100" height="500">
             </div>
@@ -289,7 +289,7 @@
             </div>
             </div>
             <div class="col-md-4 col-xs-4">
-             <div style="border:1px solid black; padding:3px;border-radius:8px;"><center>
+             <div style="border:1px solid black; padding:3px;border-radius6px;"><center>
            <div style="width:80%;text-align:center">
             <img src="shubham.JPG" alt="Chicago" width="1100" height="500">
             </div>
@@ -297,7 +297,7 @@
             </div>
             </div>
             <div class="col-md-4 col-xs-4">
-             <div style="border:1px solid black; padding:3px;border-radius:8px;"><center>
+             <div style="border:1px solid black; padding:3px;border-radius:6px;"><center>
            <div style="width:80%;text-align:center">
             <img src="ashu.JPG" alt="Chicago" width="1100" height="500">
             </div>

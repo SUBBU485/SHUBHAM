@@ -390,7 +390,7 @@
 				<div class="col-md-3 gallery-grid">
 					<div class="wpf-demo-4">  
 						<a href="Sample3-02.png" class="jzBoxLink item-hover" title="Education">  
-							<img src="Sample3-02.png" alt=" " class="img-responsive"  height="200%"/>
+							<img src="Sample3-02.png" alt=" " class="img-responsive"/>
 							<div class="view-caption">
 								<p>Full View</p>
 							</div> 

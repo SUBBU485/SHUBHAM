@@ -221,21 +221,25 @@
            <div style="width:80%;text-align:center">
             <img src="SURABHIFINAL.jpg" alt="Chicago" width="100%">
             </div>
-            <div style="padding:5px;text-align:center;"><h4>Surabhi Ramrakhiani</h4></div>
+            <div style="padding:3px;text-align:center;"><h4>Surabhi Ramrakhiani</h4></div>
             </center>
             </div>
             </div>
             <div class="col-md-4 col-xs-4">
-            <div style="width:80%">
-           <div>
+            <div style="border:1px solid black; padding:5px;border-radius:8px;"><center>
+           <div style="width:80%;text-align:center">
             <img src="asdr.jpg" alt="Chicago" width="1100" height="500">
                 </div>
-            <h4>Shawan Kumar</h4>
+             <div style="padding:3px;text-align:center;"><h4>Shawan Kumar</h4></div>
+                </center>
                 </div>
             </div>
             <div class="col-md-4 col-xs-4">
+              <div style="border:1px solid black; padding:5px;border-radius:8px;"><center>
+           <div style="width:80%;text-align:center">
             <img src="IMG_8918.jpg" alt="Chicago" width="1100" height="500">
-            <h4>Kashish Dodai</h4>
+            </div>
+                  <div style="padding:3px;text-align:center;"><h4>Kashish Dodai</h4></div></center>
             </div>
         </div>
         <div class="clearfix"></div>	
@@ -245,16 +249,27 @@
          <div class="container">
       	<div class="row">
         	<div class="col-md-4 col-xs-4">
+            <div style="border:1px solid black; padding:5px;border-radius:8px;"><center>
+           <div style="width:80%;text-align:center">
             <img src="IMG-20171215-WA0014.jpg" alt="Chicago" width="1100" height="500">
-            <h4>Neha Lal</h4>
+            </div>
+             <div style="padding:3px;text-align:center;"><h4>Neha Lal</h4></div></center>
+            </div>
             </div>
             <div class="col-md-4 col-xs-4">
+              <div style="border:1px solid black; padding:5px;border-radius:8px;"><center>
+           <div style="width:80%;text-align:center">
             <img src="raaa.jpg" alt="Chicago" width="1100" height="500">
-            <h4>Rachit Agrawal</h4>
+            </div>
+            <div style="padding:3px;text-align:center;"><h4>Rachit Agrawal</h4></div></center>
+            </div>
             </div>
             <div class="col-md-4 col-xs-4">
+            <div style="border:1px solid black; padding:5px;border-radius:8px;"><center>
+           <div style="width:80%;text-align:center">
             <img src="yash.jpg" alt="Chicago" width="1100" height="500">
-            <h4>Yash Choudhary</h4>
+            </div>
+            <div style="padding:3px;text-align:center;"><h4>Yash Choudhary</h4></div></center>
             </div>
         </div>
         <div class="clearfix"></div>	
@@ -264,16 +279,27 @@
          <div class="container">
       	<div class="row">
         	<div class="col-md-4 col-xs-4">
+            <div style="border:1px solid black; padding:5px;border-radius:8px;"><center>
+           <div style="width:80%;text-align:center">
             <img src="mohit.jpg" alt="Chicago" width="1100" height="500">
-            <h4>Mohit Gupta</h4>
+            </div>
+             <div style="padding:3px;text-align:center;"><h4>Mohit Gupta</h4></div></center>
+            </div>
             </div>
             <div class="col-md-4 col-xs-4">
+             <div style="border:1px solid black; padding:5px;border-radius:8px;"><center>
+           <div style="width:80%;text-align:center">
             <img src="shubham.JPG" alt="Chicago" width="1100" height="500">
-            <h4>Shubham Poddar</h4>
+            </div>
+             <div style="padding:3px;text-align:center;"><h4>Shubham POddar</h4></div></center>
+            </div>
             </div>
             <div class="col-md-4 col-xs-4">
+             <div style="border:1px solid black; padding:5px;border-radius:8px;"><center>
+           <div style="width:80%;text-align:center">
             <img src="ashu.JPG" alt="Chicago" width="1100" height="500">
-            <h4>Ashutosh Agrawal</h4>
+            </div>
+           <div style="padding:3px;text-align:center;"><h4>Ashutosh Agrawal</h4></div></center>
             </div>
         </div>
         <div class="clearfix"></div>
@@ -291,7 +317,8 @@
 </div>
 </div>
 
-
+    
+    
 
 <br>
 <br>

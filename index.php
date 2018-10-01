@@ -228,7 +228,7 @@
             <div class="col-md-4 col-xs-4">
             <div style="border:1px solid black; padding:3px;border-radius:6px;"><center>
            <div style="width:80%;text-align:center">
-            <img src="asdr.jpg" alt="Chicago" width="1100" height="500">
+            <img src="asdr.jpg" alt="Chicago" width="100%">
                 </div>
              <div style="padding:3px;text-align:center;"><h4>Shawan Kumar</h4></div>
                 </center>

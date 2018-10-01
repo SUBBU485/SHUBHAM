@@ -189,14 +189,14 @@
 				 <div class="col-md-6 welcome_info">
 					  <h3>Welcome</h3>
 					  
-					  <h4>Who we are?</h4>
+                     <h4><i>Who we are?</i></h4>
                      <p><i>YourArt is all about creative designs and good quality products at reasonable prices. It is a platform where designers can showcase their creative and unique designs. We make good quality products with the use of these designs and sell them at reasonable rates.</i></p>
                      <p><i>We are here to provide you with our attractive designer notebooks which you'd love to buy.</i></p>
 				
 				 </div>
 				 <div class="col-md-6 welcome_pic">
 					 <!--img src="n1.jpg" class="img-responsive" alt=""/-->
-					 <h3>What are our goals?</h3>
+                     <h3><i>What are our goals?</i></h3>
                      <p><i>We aim to collaborate with designers who have good creative skills and can make unique designs which people would love. We want to help them grow by showcasing their skills.</i></p>
                      <p><i>We also want to reduce the price of notebooks. This would enable the youth to get good unique notebooks at reasonable prices. We have tried to utilize the unused pages and covers on notebooks to help companies promote their brands.</i></p>
                      <p><i>We also want to aim youth based startups and companies as it would be beneficial for them to target their potential customers through this way of marketing.</i></p>
@@ -218,12 +218,15 @@
       	<div class="row">
         	<div class="col-md-4 col-xs-4">
             <img src="SURABHIFINAL.jpg" alt="Chicago" width="1100" height="500">
+                <h4>Surabhi Ramrakhiani</h4>
             </div>
             <div class="col-md-4 col-xs-4">
             <img src="asdr.jpg" alt="Chicago" width="1100" height="500">
+            <h4>Shawan Kumar</h4>
             </div>
             <div class="col-md-4 col-xs-4">
             <img src="IMG_8918.jpg" alt="Chicago" width="1100" height="500">
+            <h4>Kashish Dodai</h4>
             </div>
         </div>
         <div class="clearfix"></div>	
@@ -234,12 +237,15 @@
       	<div class="row">
         	<div class="col-md-4 col-xs-4">
             <img src="IMG-20171215-WA0014.jpg" alt="Chicago" width="1100" height="500">
+            <h4>Neha Lal</h4>
             </div>
             <div class="col-md-4 col-xs-4">
             <img src="raaa.jpg" alt="Chicago" width="1100" height="500">
+            <h4>Rachit Agrawal</h4>
             </div>
             <div class="col-md-4 col-xs-4">
             <img src="yash.jpg" alt="Chicago" width="1100" height="500">
+            <h4>Yash Choudhary</h4>
             </div>
         </div>
         <div class="clearfix"></div>	
@@ -250,12 +256,15 @@
       	<div class="row">
         	<div class="col-md-4 col-xs-4">
             <img src="mohit.jpg" alt="Chicago" width="1100" height="500">
+            <h4>Mohit Gupta</h4>
             </div>
             <div class="col-md-4 col-xs-4">
             <img src="shubham.JPG" alt="Chicago" width="1100" height="500">
+            <h4>Shubham Poddar</h4>
             </div>
             <div class="col-md-4 col-xs-4">
             <img src="ashu.JPG" alt="Chicago" width="1100" height="500">
+            <h4>Ashutosh Agrawal</h4>
             </div>
         </div>
         <div class="clearfix"></div>
@@ -489,14 +498,14 @@
 				<div class="footer-grids">
 					<div class="col-md-4 footer-grid footer-grid1 ">
 						<div class="footer-logo">
-							<a href="#">HOW YOU CAN ORDER</a>
-							<p>1.Whatsapp us at 8637282534</p>
-							<p>2.Contact us at 8637282534</p>
-                            <P>3.Mail us at official.yourart@gmail.com</P>
+							<a href="#">HOW YOU CAN ORDER ?</a>
+							<p>1. Whatsapp us at 8637282534</p>
+							<p>2. Contact us at 8637282534</p>
+                            <P>3. Mail us at official.yourart@gmail.com</P>
 						</div>
 					</div>
 					<div class="col-md-4 footer-grid footer-grid2">
-						<h3>Navigation</h3>
+						<h3>NAVIGATION</h3>
 						<ul>
 							<li> <a href="#about" class="scroll">About Us</a> </li>
 							
@@ -505,7 +514,7 @@
 						</ul>
 					</div>
 					<div class="col-md-4 agile-footer-grid footer-grid3">
-						<h3>Contact Us</h3>
+						<h3>CONTACT US</h3>
 					<ul>
 						<li><i class="glyphicon glyphicon-send"></i> Upper Telenga Bazar<span>,PuriGhat,Cuttack. </span></li>
 						<li><i class="glyphicon glyphicon-phone"></i> +91 <span> 8637282534 </span></li>

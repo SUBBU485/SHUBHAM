@@ -242,6 +242,7 @@
                   <div style="padding:3px;text-align:center;"><h4>Kashish Dodai</h4></div></center>
             </div>
         </div>
+          </div>
         <div class="clearfix"></div>	
       </div>
     </div>
@@ -272,6 +273,7 @@
             <div style="padding:3px;text-align:center;"><h4>Yash Choudhary</h4></div></center>
             </div>
         </div>
+             </div>
         <div class="clearfix"></div>	
       </div>
     </div>
@@ -302,6 +304,7 @@
            <div style="padding:3px;text-align:center;"><h4>Ashutosh Agrawal</h4></div></center>
             </div>
         </div>
+             </div>
         <div class="clearfix"></div>
         </div>
         </div>

@@ -217,10 +217,9 @@
       <div class="container">
       	<div class="row">
         	<div class="col-md-4 col-xs-4">
-            <h4>Surabhi Ramrakhiani</h4>
             <img src="SURABHIFINAL.jpg" alt="Chicago" width="1100" height="500">
                <br>
-               
+                <h4>Surabhi Ramrakhiani</h4>
             </div>
             <div class="col-md-4 col-xs-4">
             <img src="asdr.jpg" alt="Chicago" width="1100" height="500">

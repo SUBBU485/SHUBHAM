@@ -129,8 +129,11 @@
         <a class="nav-link navtext" href="#team">TEAM</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link navtext" href="#foot">CONTACT US</a>
+        <a class="nav-link navtext" href="#gallery">GALLERY</a>
       </li>    
+      <li class="nav-item">
+        <a class="nav-link navtext" href="#foot">CONTACT US</a>
+      </li>  
     </ul>
   </div>  
 </nav>
@@ -362,7 +365,7 @@
 
 <!-- //team -->
 <!-- gallery -->
-	<!--div class="gallery" id="gallery">
+	<div class="gallery" id="gallery">
 	 <div class="heading">
 				<h3>Our Gallery</h3>
 			</div>
@@ -384,8 +387,7 @@
 			<div class="gallery-grids-row">
 				<div class="col-md-3 gallery-grid">
 					<div class="wpf-demo-4">  
-						<a href="finalCover1.png" class="jzBoxLink item-hover" title="Education">  
-							<img src="finalCover1.png" alt=" " class="img-responsive" />
+						
 							<div class="view-caption">
 								<p>Full View</p>
 							</div> 
@@ -394,8 +396,8 @@
 				</div>
 				<div class="col-md-3 gallery-grid">
 					<div class="wpf-demo-4">  
-						<a href="finalCover2.png" class="jzBoxLink item-hover" title="Education">  
-							<img src="finalCover2.png" alt=" " class="img-responsive" />
+						<a href="Sample3-02.png" class="jzBoxLink item-hover" title="Education">  
+							<img src="Sample3-02.png" alt=" " class="img-responsive" />
 							<div class="view-caption">
 								<p>Full View</p>
 							</div> 
@@ -404,8 +406,8 @@
 				</div>
 				<div class="col-md-3 gallery-grid">
 					<div class="wpf-demo-4">  
-						<a href="finalCover3.png" class="jzBoxLink item-hover" title="Education">  
-							<img src="finalCover3.png" alt=" " class="img-responsive" />
+						<a href="Sample1-01-01.png" class="jzBoxLink item-hover" title="Education">  
+							<img src="Sample1-01-01.png" alt=" " class="img-responsive" />
 							<div class="view-caption">
 								<p>Full View</p>
 							</div> 
@@ -414,8 +416,7 @@
 				</div>
 				<div class="col-md-3 gallery-grid">
 					<div class="wpf-demo-4">  
-						<a href="finalCover4.png" class="jzBoxLink item-hover" title="Education">  
-							<img src="finalCover4.png" alt=" " class="img-responsive" />
+						
 							<div class="view-caption">
 								<p>Full View</p>
 							</div> 

@@ -120,7 +120,7 @@
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
     <span class="navbar-toggler-icon" style="color:black"></span>
   </button>
-  <div class="collapse navbar-collapse"  id="collapsibleNavbar" style="background-color:red">
+  <div class="collapse navbar-collapse"  id="collapsibleNavbar" style="text-align:right">
     <ul class="navbar-nav">
       <li class="nav-item">
         <a class="nav-link navtext" href="#about">ABOUT</a>

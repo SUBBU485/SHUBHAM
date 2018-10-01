@@ -123,16 +123,16 @@
   <div class="collapse navbar-collapse"  id="collapsibleNavbar" style="text-align:right">
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a class="nav-link navtext" href="#about">ABOUT</a>
+          <a class="nav-link navtext" href="#about"><b>ABOUT US</b></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link navtext" href="#team">TEAM</a>
+          <a class="nav-link navtext" href="#team"><b>TEAM</b></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link navtext" href="#gallery">GALLERY</a>
+          <a class="nav-link navtext" href="#gallery"><b>GALLERY</b></a>
       </li>    
       <li class="nav-item">
-        <a class="nav-link navtext" href="#foot">CONTACT US</a>
+          <a class="nav-link navtext" href="#foot"><b>CONTACT US</b></a>
       </li>  
     </ul>
   </div>  
@@ -217,9 +217,10 @@
       <div class="container">
       	<div class="row">
         	<div class="col-md-4 col-xs-4">
+            <h4>Surabhi Ramrakhiani</h4>
             <img src="SURABHIFINAL.jpg" alt="Chicago" width="1100" height="500">
                <br>
-                <h4>Surabhi Ramrakhiani</h4>
+               
             </div>
             <div class="col-md-4 col-xs-4">
             <img src="asdr.jpg" alt="Chicago" width="1100" height="500">

@@ -217,8 +217,8 @@
       <div class="container">
       	<div class="row">
         	<div class="col-md-4 col-xs-4">
-           <div style="border:1px solid black; padding:5px;border-radius:8px;">
-           <div style="width:80%">
+           <div style="border:1px solid black; padding:5px;border-radius:8px;text-align:center">
+           <div style="width:80%;text-align:center">
             <img src="SURABHIFINAL.jpg" alt="Chicago" width="100%">
             </div>
             <div style="padding:5px;text-align:center;"><h4>Surabhi Ramrakhiani</h4></div>

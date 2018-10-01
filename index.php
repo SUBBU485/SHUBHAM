@@ -217,11 +217,11 @@
       <div class="container">
       	<div class="row">
         	<div class="col-md-4 col-xs-4">
+           <div style="border:1px solid black; padding:5px;border-radius:8px;">
            <div style="width:80%">
-           <div>
-            <img src="SURABHIFINAL.jpg" alt="Chicago" width="1100" height="500">
+            <img src="SURABHIFINAL.jpg" alt="Chicago" width="100%">
             </div>
-            <h4>Surabhi Ramrakhiani</h4>
+            <div style="padding:5px;text-align:center;"><h4>Surabhi Ramrakhiani</h4></div>
             </div>
             </div>
             <div class="col-md-4 col-xs-4">

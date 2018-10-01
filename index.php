@@ -474,7 +474,7 @@
 		<div class="container">
 			<div class="footer-row">
 				<div class="col-md-3 footer-grids footer-address">
-                    <h3><a href="#"><span>YOUR ART</span> </a>
+                    <h3><a href="#"><span><img src="newlogo.png" style="width:200px;height:75px" ></span> </a>
 					</h3>
 				</div>
 				<div class="col-md-6 footer-grids subscribe">

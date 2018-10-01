@@ -217,12 +217,20 @@
       <div class="container">
       	<div class="row">
         	<div class="col-md-4 col-xs-4">
+           <div style="width:80%">
+           <div>
             <img src="SURABHIFINAL.jpg" alt="Chicago" width="1100" height="500">
-                <div>Surabhi Ramrakhiani</div>
+            </div>
+            <h4>Surabhi Ramrakhiani</h4>
+            </div>
             </div>
             <div class="col-md-4 col-xs-4">
+            <div style="width:80%">
+           <div>
             <img src="asdr.jpg" alt="Chicago" width="1100" height="500">
+                </div>
             <h4>Shawan Kumar</h4>
+                </div>
             </div>
             <div class="col-md-4 col-xs-4">
             <img src="IMG_8918.jpg" alt="Chicago" width="1100" height="500">

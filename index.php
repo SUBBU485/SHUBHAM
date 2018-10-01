@@ -386,13 +386,6 @@
 			</div>
 			<div class="gallery-grids-row">
 				<div class="col-md-3 gallery-grid">
-					<div class="wpf-demo-4">  
-						
-							<div class="view-caption">
-								<p>Full View</p>
-							</div> 
-						</a>    		
-					</div>
 				</div>
 				<div class="col-md-3 gallery-grid">
 					<div class="wpf-demo-4">  

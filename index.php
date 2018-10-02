@@ -221,7 +221,12 @@
            <div style="width:80%;text-align:center">
             <img src="SURABHIFINAL.jpg" alt="Chicago" width="100%">
             </div>
-            <div style="padding:3px;text-align:center;"><h4>Surabhi Ramrakhiani</h4></div>
+            <div style="padding:3px;text-align:center;"><h4>Surabhi Ramrakhiani</h4>
+            <ul class="agileits_social_list">
+									<li><a href="#" class="agile_facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+									<li><a href="#" class="agile_twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+									<li><a href="#" class="agile_dribble"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
+								</ul></div>
             </center>
             </div>
             </div>

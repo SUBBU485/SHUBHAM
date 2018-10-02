@@ -162,7 +162,7 @@
 		</div>
 		<!-- //Navigation -->
 		<!-- banner-slider -->
-			<video width="1400" height="540" autoplay controls>
+			<video autoplay controls>
   <source src="yourfinalvid11.mp4" type="video/mp4">
   <source src="yourfinalvid11.ogg" type="video/ogg">
 </video>

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
 <title>YOURART</title>
@@ -101,7 +101,7 @@
 </head>
 <body>
 <!-- Header -->
-    <!--h1><a href="index.html"><img src="logo.jpg" style="width:200px;height:75px;"></a></h1-->
+    <!--h1><a href="index.html"><img src="newlogo.jpg" style="width:200px;height:75px;"></a></h1-->
 <div class="banner-top">
    
     <!--div class="topnav">

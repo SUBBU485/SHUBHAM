@@ -484,7 +484,7 @@
 				</div>
 				<div class="col-md-3 gallery-grid">
 					<div class="wpf-demo-4">  
-						<a href="Sample3-02.png" class="jzBoxLink item-hover" title="Education">  
+						<a href="Sample3-02.png" class="jzBoxLink item-hover" title="Design 1">  
 							<img src="Sample3-02.png" alt=" " class="img-responsive"/>
 							<div class="view-caption">
 								<p>Full View</p>
@@ -494,7 +494,7 @@
 				</div>
 				<div class="col-md-3 gallery-grid">
 					<div class="wpf-demo-4">  
-						<a href="Sample1-01-01.png" class="jzBoxLink item-hover" title="Education">  
+						<a href="Sample1-01-01.png" class="jzBoxLink item-hover" title="Design 2">  
 							<img src="Sample1-01-01.png" alt=" " class="img-responsive" />
 							<div class="view-caption">
 								<p>Full View</p>

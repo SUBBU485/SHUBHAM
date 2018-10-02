@@ -295,7 +295,7 @@
             <div class="col-md-4 col-xs-4">
             <div style="border:1px solid black; padding:3px;border-radius:4px;"><center>
            <div style="width:80%;text-align:center">
-            <img src="yash.jpg" alt="Chicago" width="1100" height="500">
+            <img src="yashc.jpg" alt="Chicago" width="1100" height="500">
             </div>
                 <div style="padding:3px;text-align:center;"><h4><b>Yash</b></h4><br>
             <ul class="agileits_social_list">

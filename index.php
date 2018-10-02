@@ -222,6 +222,7 @@
             <img src="SURABHIFINAL.jpg" alt="Chicago" width="100%">
             </div>
             <div style="padding:3px;text-align:center;"><h4>Surabhi Ramrakhiani</h4>
+            <br>
             <ul class="agileits_social_list">
 									<li><a href="#" class="agile_facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
 									<li><a href="#" class="agile_twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
@@ -235,7 +236,13 @@
            <div style="width:80%;text-align:center">
             <img src="asdr.jpg" alt="Chicago" width="100%">
                 </div>
-             <div style="padding:3px;text-align:center;"><h4>Shawan Kumar</h4></div>
+             <div style="padding:3px;text-align:center;"><h4>Shawan Kumar</h4>
+               <br>
+            <ul class="agileits_social_list">
+									<li><a href="#" class="agile_facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+									<li><a href="#" class="agile_twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+									<li><a href="#" class="agile_dribble"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
+								</ul></div>
                 </center>
                 </div>
             </div>
@@ -244,7 +251,12 @@
            <div style="width:80%;text-align:center">
             <img src="IMG_8918.jpg" alt="Chicago" width="1100" height="500">
             </div>
-                  <div style="padding:3px;text-align:center;"><h4>Kashish Dodai</h4></div></center>
+                  <div style="padding:3px;text-align:center;"><h4>Kashish Dodai</h4><br>
+            <ul class="agileits_social_list">
+									<li><a href="#" class="agile_facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+									<li><a href="#" class="agile_twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+									<li><a href="#" class="agile_dribble"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
+								</ul></div></center>
             </div>
         </div>
           </div>
@@ -259,7 +271,12 @@
            <div style="width:80%;text-align:center">
             <img src="IMG-20171215-WA0014.jpg" alt="Chicago" width="1100" height="500">
             </div>
-             <div style="padding:3px;text-align:center;"><h4>Neha Lal</h4></div></center>
+             <div style="padding:3px;text-align:center;"><h4>Neha Lal</h4><br>
+            <ul class="agileits_social_list">
+									<li><a href="#" class="agile_facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+									<li><a href="#" class="agile_twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+									<li><a href="#" class="agile_dribble"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
+								</ul></div></center>
             </div>
             </div>
             <div class="col-md-4 col-xs-4">
@@ -267,7 +284,12 @@
            <div style="width:80%;text-align:center">
             <img src="raaa.jpg" alt="Chicago" width="1100" height="500">
             </div>
-            <div style="padding:3px;text-align:center;"><h4>Rachit Agrawal</h4></div></center>
+            <div style="padding:3px;text-align:center;"><h4>Rachit Agrawal</h4><br>
+            <ul class="agileits_social_list">
+									<li><a href="#" class="agile_facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+									<li><a href="#" class="agile_twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+									<li><a href="#" class="agile_dribble"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
+								</ul></div></center>
             </div>
             </div>
             <div class="col-md-4 col-xs-4">
@@ -275,7 +297,12 @@
            <div style="width:80%;text-align:center">
             <img src="yash.jpg" alt="Chicago" width="1100" height="500">
             </div>
-            <div style="padding:3px;text-align:center;"><h4>Yash Choudhary</h4></div></center>
+            <div style="padding:3px;text-align:center;"><h4>Yash Choudhary</h4><br>
+            <ul class="agileits_social_list">
+									<li><a href="#" class="agile_facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+									<li><a href="#" class="agile_twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+									<li><a href="#" class="agile_dribble"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
+								</ul></div></center>
             </div>
         </div>
              </div>
@@ -290,7 +317,12 @@
            <div style="width:80%;text-align:center">
             <img src="mohit.jpg" alt="Chicago" width="1100" height="500">
             </div>
-             <div style="padding:3px;text-align:center;"><h4>Mohit Gupta</h4></div></center>
+             <div style="padding:3px;text-align:center;"><h4>Mohit Gupta</h4><br>
+            <ul class="agileits_social_list">
+									<li><a href="#" class="agile_facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+									<li><a href="#" class="agile_twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+									<li><a href="#" class="agile_dribble"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
+								</ul></div></center>
             </div>
             </div>
             <div class="col-md-4 col-xs-4">
@@ -298,7 +330,12 @@
            <div style="width:80%;text-align:center">
             <img src="shubham.JPG" alt="Chicago" width="1100" height="500">
             </div>
-             <div style="padding:3px;text-align:center;"><h4>Shubham Poddar</h4></div></center>
+             <div style="padding:3px;text-align:center;"><h4>Shubham Poddar</h4><br>
+            <ul class="agileits_social_list">
+									<li><a href="#" class="agile_facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+									<li><a href="#" class="agile_twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+									<li><a href="#" class="agile_dribble"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
+								</ul></div></center>
             </div>
             </div>
             <div class="col-md-4 col-xs-4">
@@ -306,7 +343,12 @@
            <div style="width:80%;text-align:center">
             <img src="ashu.JPG" alt="Chicago" width="1100" height="500">
             </div>
-           <div style="padding:3px;text-align:center;"><h4>Ashutosh Agrawal</h4></div></center>
+           <div style="padding:3px;text-align:center;"><h4>Ashutosh Agrawal</h4><br>
+            <ul class="agileits_social_list">
+									<li><a href="#" class="agile_facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+									<li><a href="#" class="agile_twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+									<li><a href="#" class="agile_dribble"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
+								</ul></div></center>
             </div>
         </div>
              </div>

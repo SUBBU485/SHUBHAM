@@ -345,9 +345,9 @@
             </div>
            <div style="padding:3px;text-align:center;"><h4>Ashutosh</h4><br>
             <ul class="agileits_social_list">
-									<li><a href="#" class="agile_facebook"><i class="fa fa-facebook"></i></a></li>
-									<li><a href="#" class="agile_twitter"><i class="fa fa-twitter"></i></a></li>
-									<li><a href="#"class="agile_dribble" ><i class="fa fa-dribbble"></i></a></li>
+									<li><a href="#" class="agile_facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+									<li><a href="#" class="agile_twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+									<li><a href="#"class="agile_dribble" ><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
 								</ul></div></center>
             </div>
         </div>
@@ -560,7 +560,7 @@
 		<div class="container">
 			<div class="footer-row">
 				<div class="col-md-3 footer-grids footer-address">
-                    <h3><a href="#"><span><img src="footer.png" style="width:200px;height:75px" ></span> </a>
+                    <h3><a href="#"><img src="footer.png" style="width:200px;height:75px" > </a>
 					</h3>
 				</div>
 				<div class="col-md-6 footer-grids subscribe">

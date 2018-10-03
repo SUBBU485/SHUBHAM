@@ -276,10 +276,10 @@
   </div>
   
   <!-- Left and right controls -->
-  <a class="carousel-control-prev" href="#demo" data-slide="prev" style="color:red ; font-weight:bold; font-size:50px">
+  <a class="carousel-control-prev" href="#demo" data-slide="prev" style="color:black ; font-weight:bold; font-size:50px">
     <span class="fas fa-chevron-left" ></span>
   </a>
-  <a class="carousel-control-next" href="#demo" data-slide="next" style="color:red ; font-weight:bold; font-size:50px">
+  <a class="carousel-control-next" href="#demo" data-slide="next" style="color:black ; font-weight:bold; font-size:50px">
     <span class="fas fa-chevron-right"></span>
   </a>	 
 </div>

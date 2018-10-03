@@ -415,7 +415,7 @@
 				<div class="col-md-3 footer-grids footer-icons">
 					<div class="footer-social-grids">
                             <ul>
-							<li><a href="https://www.facebook.com/official.yourart"><i class="fab fa-facebook-f"></i></a></li>
+							<li><a href="https://www.facebook.com/official.yourart" style="color:blue ; font-weight:bold; font-size:50px"><i class="fab fa-facebook-f"></i></a></li>
 							<li><a href="https://www.instagram.com/yourart1"><i class="fab fa-instagram"></i></a></li>
 							<li><a href="#"><i class="fab fa-linkedin"></i></a></li>
 						</ul>

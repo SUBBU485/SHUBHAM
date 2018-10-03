@@ -401,21 +401,21 @@ a.agile_vimeo:hover{color:#1ab7ea;}
 .footer-social-grids ul li a i.fa.fa-linkedin:hover{border:solid 2px #f26522;background:#f26522;color:#FFFFFF;}
 .footer-grid h3,.footer-list h3,.agile-footer-grid h3{font-size:2em;margin:0 0 1em 0;color:#FFFFFF;}
 .footer-logo a{color:#FFFFFF;font-size:2em;text-decoration:none;}
-.footer-grid p{margin:1em 0;margin:1em 0;font-size:16px;line-height:1.8em;color:white;}
+.footer-grid p{margin:1em 0;margin:1em 0;font-size:16px;line-height:1.8em;color:gray;}
 .footer-grid ul, .footer-list ul{padding:0;margin:0;}
 .footer-grid ul li, .footer-list ul li{display:block;margin:.5em 0;}
-.footer-list ul li{color:white;font-size:1em;}
-.footer-grid ul li a{color:white;font-size:1em;text-decoration:none;line-height:2em;}
+.footer-list ul li{color:gray;font-size:1em;}
+.footer-grid ul li a{color:gray;font-size:1em;text-decoration:none;line-height:2em;}
 .footer-grid ul li a:hover{color:#ff9900;}
 .agile-footer-grid ul{padding:0;margin:0;}
-ul.agile_footer_grid_list li{list-style-type:none;color:white;line-height:1.8em;margin-bottom:1em;font-size:1em;}
+ul.agile_footer_grid_list li{list-style-type:none;color:gray;line-height:1.8em;margin-bottom:1em;font-size:1em;}
 ul.agile_footer_grid_list li a{color:#ff9900;text-decoration:none;}
 ul.agile_footer_grid_list li span{display:block;margin:1em 0 0;}
 ul.agile_footer_grid_list i.fa.fa-instagram{margin-right:1em;}
 .agile-footer-grid input[type="email"]{outline:none;padding:10px;background:#fff;border:none;font-size:14px;color:#212121;margin-top:1em;width:100%;}
 .agile-footer-grid input[type="submit"]{outline:none;padding:0.6em 1em;background:#ff9900;border:none;font-size:14px;color:#fff;margin:1em 0 0;border:2px solid #ff9900;width:40%;text-transform:uppercase;}
 .agile-footer-grid input[type="submit"]:hover{border:2px solid #ff9900;background:none;}
-.agile-footer-grid li{color:white;list-style:none;margin:1em 0;font-size:16px;}
+.agile-footer-grid li{color:gray;list-style:none;margin:1em 0;font-size:16px;}
 .footer-grids.footer-address a{border-top:2px solid #f6cc4c;border-bottom:2px solid #f6cc4c;color:#fff;padding:6px;}
 .footer-grids.footer-address span{color:#f6cc4c;}
 .footer-grids.footer-address h3{letter-spacing:2px;font-size:2em;text-transform:uppercase;}

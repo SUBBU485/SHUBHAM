@@ -65,10 +65,10 @@
     <a href="#home" class="yourart-bar-item yourart-button yourart-wide"><img src="newlogo.png" style="width:200px;height:75px;"></a>
     <!-- Right-sided navbar links -->
     <div class="yourart-right yourart-hide-small">
-      <a href="#about" class="yourart-bar-item yourart-button">ABOUT</a>
-      <a href="#team" class="yourart-bar-item yourart-button"><i class="fa fa-user"></i> TEAM</a>
-      <a href="#gallery" class="yourart-bar-item yourart-button"><i class="fa fa-th"></i> Gallery</a>
-      <a href="#foot" class="yourart-bar-item yourart-button"><i class="fa fa-envelope"></i> CONTACT</a>
+        <a href="#about" class="yourart-bar-item yourart-button"><b>ABOUT</b></a>
+        <a href="#team" class="yourart-bar-item yourart-button"><i class="fa fa-user"></i><b> TEAM</b></a>
+        <a href="#gallery" class="yourart-bar-item yourart-button"><i class="fa fa-th"></i> <b>Gallery</b></a>
+        <a href="#foot" class="yourart-bar-item yourart-button"><i class="fa fa-envelope"></i> <b>CONTACT</b></a>
     </div>
     <!-- Hide right-floated links on small screens and replace them with a menu icon -->
 

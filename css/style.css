@@ -404,8 +404,8 @@ a.agile_vimeo:hover{color:#1ab7ea;}
 .footer-grid p{margin:1em 0;margin:1em 0;font-size:16px;line-height:1.8em;color:white;}
 .footer-grid ul, .footer-list ul{padding:0;margin:0;}
 .footer-grid ul li, .footer-list ul li{display:block;margin:.5em 0;}
-.footer-list ul li{color:#bbbbbb;font-size:1em;}
-.footer-grid ul li a{color:#bbbbbb;font-size:1em;text-decoration:none;line-height:2em;}
+.footer-list ul li{color:white;font-size:1em;}
+.footer-grid ul li a{color:white;font-size:1em;text-decoration:none;line-height:2em;}
 .footer-grid ul li a:hover{color:#ff9900;}
 .agile-footer-grid ul{padding:0;margin:0;}
 ul.agile_footer_grid_list li{list-style-type:none;color:#bbbbbb;line-height:1.8em;margin-bottom:1em;font-size:1em;}

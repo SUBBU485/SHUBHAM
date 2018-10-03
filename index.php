@@ -142,7 +142,7 @@
                <div style="padding:3px;text-align:center;"><h4><b>Surabhi</b></h4>
             <br>
             <ul class="agileits_social_list">
-									<li><a href="#" class="agile_facebook"><i class="fab fa-facebook-f" aria-hidden="true"></i></a></li>
+									<li><a href="#" class="agile_facebook"><i class="fab fa-facebook-f"></i></a></li>
 									<li><a href="#" class="agile_twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
 									<li><a href="#" class="agile_dribble"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
 								</ul></div>

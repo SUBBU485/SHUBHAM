@@ -142,9 +142,9 @@
                <div style="padding:3px;text-align:center;"><h4><b>Surabhi</b></h4>
             <br>
             <ul class="agileits_social_list">
-									<li><a href="#" class="agile_facebook"><i class="fab fa-facebook-f"></i></a></li>
-									<li><a href="#" class="agile_twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-									<li><a href="#" class="agile_dribble"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
+									<li><a href="#" class="agile_facebook"><i class="fab fa-facebook-f" aria-hidden="true"></i></a></li>
+									<li><a href="#" class="agile_twitter"><i class="fab fa-twitter" aria-hidden="true"></i></a></li>
+									<li><a href="#" class="agile_dribble"><i class="fab fa-dribbble" aria-hidden="true"></i></a></li>
 								</ul></div>
             </center>
             </div>
@@ -158,8 +158,8 @@
                <br>
             <ul class="agileits_social_list">
 									<li><a href="#" class="agile_facebook"><i class="fab fa-facebook-f" aria-hidden="true"></i></a></li>
-									<li><a href="#" class="agile_twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-									<li><a href="#" class="agile_dribble"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
+									<li><a href="#" class="agile_twitter"><i class="fab fa-twitter" aria-hidden="true"></i></a></li>
+									<li><a href="#" class="agile_dribble"><i class="fab fa-dribbble" aria-hidden="true"></i></a></li>
 								</ul></div>
                 </center>
                 </div>
@@ -172,8 +172,8 @@
                   <div style="padding:3px;text-align:center;"><h4><b>Kashish</b></h4><br>
             <ul class="agileits_social_list">
 									<li><a href="#" class="agile_facebook"><i class="fab fa-facebook-f" aria-hidden="true"></i></a></li>
-									<li><a href="#" class="agile_twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-									<li><a href="#" class="agile_dribble"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
+									<li><a href="#" class="agile_twitter"><i class="fab fa-twitter" aria-hidden="true"></i></a></li>
+									<li><a href="#" class="agile_dribble"><i class="fab fa-dribbble" aria-hidden="true"></i></a></li>
 								</ul></div></center>
             </div>
         </div>
@@ -192,8 +192,8 @@
                 <div style="padding:3px;text-align:center;"><h4><b>Neha</b></h4><br>
             <ul class="agileits_social_list">
 									<li><a href="#" class="agile_facebook"><i class="fab fa-facebook-f" aria-hidden="true"></i></a></li>
-									<li><a href="#" class="agile_twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-									<li><a href="#" class="agile_dribble"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
+									<li><a href="#" class="agile_twitter"><i class="fab fa-twitter" aria-hidden="true"></i></a></li>
+									<li><a href="#" class="agile_dribble"><i class="fab fa-dribbble" aria-hidden="true"></i></a></li>
 								</ul></div></center>
             </div>
             </div>
@@ -205,8 +205,8 @@
                   <div style="padding:3px;text-align:center;"><h4><b>Rachit</b></h4><br>
             <ul class="agileits_social_list">
 									<li><a href="#" class="agile_facebook"><i class="fab fa-facebook-f" aria-hidden="true"></i></a></li>
-									<li><a href="#" class="agile_twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-									<li><a href="#" class="agile_dribble"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
+									<li><a href="#" class="agile_twitter"><i class="fab fa-twitter" aria-hidden="true"></i></a></li>
+									<li><a href="#" class="agile_dribble"><i class="fab fa-dribbble" aria-hidden="true"></i></a></li>
 								</ul></div></center>
             </div>
             </div>
@@ -218,8 +218,8 @@
                 <div style="padding:3px;text-align:center;"><h4><b>Yash</b></h4><br>
             <ul class="agileits_social_list">
 									<li><a href="#" class="agile_facebook"><i class="fab fa-facebook-f" aria-hidden="true"></i></a></li>
-									<li><a href="#" class="agile_twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-									<li><a href="#" class="agile_dribble"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
+									<li><a href="#" class="agile_twitter"><i class="fab fa-twitter" aria-hidden="true"></i></a></li>
+									<li><a href="#" class="agile_dribble"><i class="fab fa-dribbble" aria-hidden="true"></i></a></li>
 								</ul></div></center>
             </div>
         </div>
@@ -238,8 +238,8 @@
                 <div style="padding:3px;text-align:center;"><h4><b>Mohit</b></h4><br>
             <ul class="agileits_social_list">
 									<li><a href="#" class="agile_facebook"><i class="fab fa-facebook-f" aria-hidden="true"></i></a></li>
-									<li><a href="#" class="agile_twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-									<li><a href="#" class="agile_dribble"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
+									<li><a href="#" class="agile_twitter"><i class="fab fa-twitter" aria-hidden="true"></i></a></li>
+									<li><a href="#" class="agile_dribble"><i class="fab fa-dribbble" aria-hidden="true"></i></a></li>
 								</ul></div></center>
             </div>
             </div>
@@ -251,8 +251,8 @@
                  <div style="padding:3px;text-align:center;"><h4><b>Shubham</b></h4><br>
             <ul class="agileits_social_list">
 									<li><a href="#" class="agile_facebook"><i class="fab fa-facebook-f" aria-hidden="true"></i></a></li>
-									<li><a href="#" class="agile_twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-									<li><a href="#" class="agile_dribble"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
+									<li><a href="#" class="agile_twitter"><i class="fab fa-twitter" aria-hidden="true"></i></a></li>
+									<li><a href="#" class="agile_dribble"><i class="fab fa-dribbble" aria-hidden="true"></i></a></li>
 								</ul></div></center>
                   </div>
             </div>
@@ -264,8 +264,8 @@
                  <div style="padding:3px;text-align:center;"><h4><b>Ashutosh</b></h4><br>
             <ul class="agileits_social_list">
 									<li><a href="#" class="agile_facebook"><i class="fab fa-facebook-f" aria-hidden="true"></i></a></li>
-									<li><a href="#" class="agile_twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-									<li><a href="#"class="agile_dribble" ><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
+									<li><a href="#" class="agile_twitter"><i class="fab fa-twitter" aria-hidden="true"></i></a></li>
+									<li><a href="#"class="agile_dribble" ><i class="fab fa-dribbble" aria-hidden="true"></i></a></li>
 								</ul></div></center>
             </div>
         </div>

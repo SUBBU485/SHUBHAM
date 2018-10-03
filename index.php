@@ -104,19 +104,19 @@
 				</div>
 				<div class="welcome_sec_about-grids">
 				 <div class="col-md-6 welcome_info">
-					  <h3>Welcome</h3>
+                     <h3><b>WELCOME</b></h3>
 					  
                      <h4><i><b>Who we are?</b></i></h4>
-                     <p><i>YourArt is all about creative designs and good quality products at reasonable prices. It is a platform where designers can showcase their creative and unique designs. We make good quality products with the use of these designs and sell them at reasonable rates.</i></p>
-                     <p><i>We are here to provide you with our attractive designer notebooks which you'd love to buy.</i></p>
+                     <p>YourArt is all about creative designs and good quality products at reasonable prices. It is a platform where designers can showcase their creative and unique designs. We make good quality products with the use of these designs and sell them at reasonable rates.</p>
+                     <p>We are here to provide you with our attractive designer notebooks which you'd love to buy.</p>
 				
 				 </div>
 				 <div class="col-md-6 welcome_pic">
 					 <!--img src="n1.jpg" class="img-responsive" alt=""/-->
                      <h3><i><b>What are our goals?</b></i></h3>
-                     <p><i>We aim to collaborate with designers who have good creative skills and can make unique designs which people would love. We want to help them grow by showcasing their skills.</i></p>
-                     <p><i>We also want to reduce the price of notebooks. This would enable the youth to get good unique notebooks at reasonable prices. We have tried to utilize the unused pages and covers on notebooks to help companies promote their brands.</i></p>
-                     <p><i>We also want to aim youth based startups and companies as it would be beneficial for them to target their potential customers through this way of marketing.</i></p>
+                     <p>We aim to collaborate with designers who have good creative skills and can make unique designs which people would love. We want to help them grow by showcasing their skills.</p>
+                     <p>We also want to reduce the price of notebooks. This would enable the youth to get good unique notebooks at reasonable prices. We have tried to utilize the unused pages and covers on notebooks to help companies promote their brands.</p>
+                     <p>We also want to aim youth based startups and companies as it would be beneficial for them to target their potential customers through this way of marketing.</p>
 				 </div>
 				 <div class="clearfix"></div>
 			  </div>
@@ -415,9 +415,9 @@
 				<div class="col-md-3 footer-grids footer-icons">
 					<div class="footer-social-grids">
                             <ul>
-							<li><a href="https://www.facebook.com/official.yourart" style="color:grey ; font-weight:bold; font-size:20px"><i class="fab fa-facebook-f"></i></a></li>
-							<li><a href="https://www.instagram.com/yourart1" style="color:grey ; font-weight:bold; font-size:20px"><i class="fab fa-instagram"></i></a></li>
-							<li><a href="#" style="color:grey ; font-weight:bold; font-size:20px"><i class="fab fa-linkedin"></i></a></li>
+							<li><a href="https://www.facebook.com/official.yourart" style="color:white ; font-weight:bold; font-size:30px"><i class="fab fa-facebook-f"></i></a></li>
+							<li><a href="https://www.instagram.com/yourart1" style="color:white ; font-weight:bold; font-size:30px"><i class="fab fa-instagram"></i></a></li>
+							<li><a href="#" style="color:white ; font-weight:bold; font-size:30px"><i class="fab fa-linkedin"></i></a></li>
 						</ul>
 					</div>
 				</div>

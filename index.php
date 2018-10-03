@@ -65,7 +65,7 @@
     <a href="#home" class="yourart-bar-item yourart-button yourart-wide"><img src="newlogo.png" style="width:200px;height:75px;"></a>
     <!-- Right-sided navbar links -->
     <div class="yourart-right yourart-hide-small">
-        <a href="#about" class="yourart-bar-item yourart-button"><b>ABOUT</b></a>
+        <a href="#about" class="yourart-bar-item yourart-button"><b>ABOUT US</b></a>
         <a href="#team" class="yourart-bar-item yourart-button"><i class="fa fa-user"></i><b> TEAM</b></a>
         <a href="#gallery" class="yourart-bar-item yourart-button"><i class="fa fa-th"></i> <b>Gallery</b></a>
         <a href="#foot" class="yourart-bar-item yourart-button"><i class="fa fa-envelope"></i> <b>CONTACT</b></a>
@@ -81,7 +81,7 @@
 <!-- Sidebar on small screens when clicking the menu icon -->
 <nav class="yourart-sidebar yourart-bar-block yourart-black yourart-card yourart-animate-left yourart-hide-medium yourart-hide-large" style="display:none" id="mySidebar">
   <a href="javascript:void(0)" onclick="yourart_close()" class="yourart-bar-item yourart-button yourart-large yourart-padding-16">Close &times;</a>
-  <a href="#about" onclick="yourart_close()" class="yourart-bar-item yourart-button">ABOUT</a>
+  <a href="#about" onclick="yourart_close()" class="yourart-bar-item yourart-button">ABOUT US</a>
   <a href="#team" onclick="yourart_close()" class="yourart-bar-item yourart-button">TEAM</a>
   <a href="#gallery" onclick="yourart_close()" class="yourart-bar-item yourart-button">GALLERY</a>
   <a href="#foot" onclick="yourart_close()" class="yourart-bar-item yourart-button">CONTACT</a>

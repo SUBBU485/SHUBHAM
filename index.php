@@ -38,146 +38,62 @@
     .carousel-inner img {
       width: 100%;
       height: 100%;
+    
   }
     body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
 }
-
-.topnav {
-  overflow: hidden;
-  background-color: white;
-}
-
-.topnav a {
-  float: left;
-  color: black;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-}
-
-.topnav a:hover {
-  background-color: #ddd;
-  color: black;
-}
-
-.topnav a.active {
-  background-color: #4CAF50;
-  color: white;
-}
-
-.topnav-right {
-  float: right;
-}
-
-        .navbar{
-            background-color: 'white';
-            
-        }
-        .navbar li a, .navbar{ 
-          color: #000000 !important;
-      }
-    .navbar-nav li a:hover {
-          color: #fff !important;
-        background-color: #000 !important;
-      }
-  .navbar-nav li.active a {
-      color: #fff !important;
-      background-color: #29292c !important;
-  }
-        #collapsibleNavbar{
-            position:relative;
-        
-        }
+/* yourart.CSS 4.10 February 2018 by Jan Egil and Borge Refsnes */
         @media screen and (max-width:720px){
-            #collapsibleNavbar{
-                position: relative;
-                right:0;
-        }
+            video{
+                padding-top: 60px;
+            }
         }
     </style>
 </head>
 <body>
 <!-- Header -->
-    <!--h1><a href="index.html"><img src="newlogo.jpg" style="width:200px;height:75px;"></a></h1-->
+    
 <div class="banner-top">
    
-    <!--div class="topnav">
-  <img src="newlogo.png" style="width:200px;height:75px;" >
-  <div class="topnav-right">
-     <br>
-      <a href="#about"><b><font size="4">ABOUT</font></b></a>
-      <a href="#team"><b><font size="4">DESIGNERS</font></b></a>
-      <a href="#gallery"><b><font size="4">GALLERY</font></b></a>
-      <a href="#foot"><b><font size="4">CONTACT US</font></b></a>
-  </div>
-</div-->
+   
     
- <nav class="navbar navbar-expand-md navbar-light">
-  <a class="navbar-brand" href="#"><img src="newlogo.png" style="width:200px;height:75px;margin-top:-20px;margin-left:-10px" ></a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
-    <span class="navbar-toggler-icon" style="color:black"></span>
-  </button>
-  <div class="collapse navbar-collapse"  id="collapsibleNavbar" style="text-align:right">
-    <ul class="navbar-nav">
-      <li class="nav-item">
-          <a class="nav-link navtext" href="#about"><b>ABOUT US</b></a>
-      </li>
-      <li class="nav-item">
-          <a class="nav-link navtext" href="#team"><b>TEAM</b></a>
-      </li>
-      <li class="nav-item">
-          <a class="nav-link navtext" href="#gallery"><b>GALLERY</b></a>
-      </li>    
-      <li class="nav-item">
-          <a class="nav-link navtext" href="#foot"><b>CONTACT US</b></a>
-      </li>  
-    </ul>
-  </div>  
+ <div class="yourart-top">
+  <div class="yourart-bar yourart-white yourart-card" id="myNavbar">
+    <a href="#home" class="yourart-bar-item yourart-button yourart-wide"><img src="newlogo.png" style="width:200px;height:75px;"></a>
+    <!-- Right-sided navbar links -->
+    <div class="yourart-right yourart-hide-small">
+      <a href="#about" class="yourart-bar-item yourart-button">ABOUT</a>
+      <a href="#team" class="yourart-bar-item yourart-button"><i class="fa fa-user"></i> TEAM</a>
+      <a href="#gallery" class="yourart-bar-item yourart-button"><i class="fa fa-th"></i> Gallery</a>
+      <a href="#foot" class="yourart-bar-item yourart-button"><i class="fa fa-envelope"></i> CONTACT</a>
+    </div>
+    <!-- Hide right-floated links on small screens and replace them with a menu icon -->
+
+    <a href="javascript:void(0)" class="yourart-bar-item yourart-button yourart-right yourart-hide-large yourart-hide-medium" onclick="yourart_open()">
+      <i class="fa fa-bars"></i>
+    </a>
+  </div>
+</div>
+
+<!-- Sidebar on small screens when clicking the menu icon -->
+<nav class="yourart-sidebar yourart-bar-block yourart-black yourart-card yourart-animate-left yourart-hide-medium yourart-hide-large" style="display:none" id="mySidebar">
+  <a href="javascript:void(0)" onclick="yourart_close()" class="yourart-bar-item yourart-button yourart-large yourart-padding-16">Close &times;</a>
+  <a href="#about" onclick="yourart_close()" class="yourart-bar-item yourart-button">ABOUT</a>
+  <a href="#team" onclick="yourart_close()" class="yourart-bar-item yourart-button">TEAM</a>
+  <a href="#gallery" onclick="yourart_close()" class="yourart-bar-item yourart-button">GALLERY</a>
+  <a href="#foot" onclick="yourart_close()" class="yourart-bar-item yourart-button">CONTACT</a>
 </nav>
     
-		<!--div class="logo">
-			<h1><a href="index.html"><img src="logo.jpg" width="10%" height="10%"</a></h1>
-		</div>
-		<!-- Navigation -->
-		<!--div class="container">
-			<div class="menu">
-					<div class="overlay-navigation">
-						<nav role="navigation">
-							<ul>
-								<li><a href="#"  class="scroll" data-content="The beginning">Home</a></li>
-								<li><a href="#about"  class="scroll" data-content="Curious?">About</a></li>
-								<li><a href="#team"  class="scroll" data-content="designers">Designers</a></li>
-								<li><a href="#gallery"  class="scroll" data-content="Only the finest">Gallery</a></li>
-                                <li><a href="#foot"  class="scroll" data-content="Contacts">Contacts</a></li>
-							</ul>
-						</nav>
-					</div>
-					<section class="main">
-						<div class="open-overlay"> <span class="bar-top"></span> <span class="bar-middle"></span> <span class="bar-bottom"></span> </div>
-					</section>
-				</div>
-		</div>
+		
 		<!-- //Navigation -->
 		<!-- banner-slider -->
 			<video autoplay controls>
   <source src="yourfinalvid11.mp4" type="video/mp4">
   <source src="yourfinalvid11.ogg" type="video/ogg">
 </video>
-			<!-- Slider -->
-		<!--div class="slider">
-			<ul class="rslides" id="slider">
-				<li class="first-img">
-					
-				</li>
-			</ul>
-		</div>
-		<!-- //Slider -->
-		<!-- //banner-slider -->
-	<!-- //Header -->
-	
+			
 	<!-- welcome section -->
 	<div class="welcome" id="about">
 		<div class="container">
@@ -211,13 +127,14 @@
 	<div class="team-head">
 				<h3>Our Team</h3>
 			</div>
+
 <div id="demo" class="carousel slide" data-ride="carousel">
 	<div class="carousel-inner">
     <div class="carousel-item active">
       <div class="container">
       	<div class="row">
         	<div class="col-md-4 col-xs-4">
-           <div style="border:1px solid black; padding:3px;border-radius:4px;"><center>
+           <div style="padding:3px;border-radius:4px;"><center>
            <div style="width:80%;text-align:center">
             <img src="SURABHIFINAL.jpg" alt="Chicago" width="100%">
             </div>
@@ -232,7 +149,7 @@
             </div>
             </div>
             <div class="col-md-4 col-xs-4">
-            <div style="border:1px solid black; padding:3px;border-radius:4px;"><center>
+            <div style="padding:3px;border-radius:4px;"><center>
            <div style="width:80%;text-align:center">
             <img src="asdr.jpg" alt="Chicago" width="100%">
                 </div>
@@ -247,7 +164,7 @@
                 </div>
             </div>
             <div class="col-md-4 col-xs-4">
-              <div style="border:1px solid black; padding:3px;border-radius:4px;"><center>
+              <div style="padding:3x;border-radius:4px;"><center>
            <div style="width:80%;text-align:center">
             <img src="IMG_8918.jpg" alt="Chicago" width="1100" height="500">
             </div>
@@ -267,7 +184,7 @@
          <div class="container">
       	<div class="row">
         	<div class="col-md-4 col-xs-4">
-            <div style="border:1px solid black; padding:3px;border-radius:4px;"><center>
+            <div style="padding:3px;border-radius:4px;"><center>
            <div style="width:80%;text-align:center">
             <img src="IMG-20171215-WA0014.jpg" alt="Chicago" width="1100" height="500">
             </div>
@@ -280,7 +197,7 @@
             </div>
             </div>
             <div class="col-md-4 col-xs-4">
-              <div style="border:1px solid black; padding:3px;border-radius:4px;"><center>
+              <div style=" padding:3px;border-radius:4px;"><center>
            <div style="width:80%;text-align:center">
             <img src="raaa.jpg" alt="Chicago" width="1100" height="500">
             </div>
@@ -293,9 +210,9 @@
             </div>
             </div>
             <div class="col-md-4 col-xs-4">
-            <div style="border:1px solid black; padding:3px;border-radius:4px;"><center>
+            <div style=" padding:3px;border-radius:4px;"><center>
            <div style="width:80%;text-align:center">
-            <img src="yashc.jpg" alt="Chicago" width="1100" height="500">
+            <img src="yash.jpg" alt="Chicago" width="1100" height="500">
             </div>
                 <div style="padding:3px;text-align:center;"><h4><b>Yash</b></h4><br>
             <ul class="agileits_social_list">
@@ -313,7 +230,7 @@
          <div class="container">
       	<div class="row">
         	<div class="col-md-4 col-xs-4">
-            <div style="border:1px solid black; padding:3px;border-radius:4px;"><center>
+            <div style="padding:3px;border-radius:4px;"><center>
            <div style="width:80%;text-align:center">
             <img src="motu.jpg" alt="Chicago" width="1100" height="500">
             </div>
@@ -326,7 +243,7 @@
             </div>
             </div>
             <div class="col-md-4 col-xs-4">
-             <div style="border:1px solid black; padding:3px;border-radius:4px;"><center>
+             <div style=" padding:3px;border-radius:4px;"><center>
            <div style="width:80%;text-align:center">
             <img src="shubham.JPG" alt="Chicago" width="1100" height="500">
             </div>
@@ -336,10 +253,10 @@
 									<li><a href="#" class="agile_twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
 									<li><a href="#" class="agile_dribble"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
 								</ul></div></center>
-            </div>
+                  </div>
             </div>
             <div class="col-md-4 col-xs-4">
-             <div style="border:1px solid black; padding:3px;border-radius:4px;"><center>
+             <div style=" padding:3px;border-radius:4px;"><center>
            <div style="width:80%;text-align:center">
             <img src="ashu.JPG" alt="Chicago" width="1100" height="500">
             </div>
@@ -359,10 +276,10 @@
   
   <!-- Left and right controls -->
   <a class="carousel-control-prev" href="#demo" data-slide="prev">
-    <span class="carousel-control-prev-icon"></span>
+    <span class="carousel-control-prev-icon" style="color:black"></span>
   </a>
   <a class="carousel-control-next" href="#demo" data-slide="next">
-    <span class="carousel-control-next-icon"></span>
+    <span class="carousel-control-next-icon" style="color:black"></span>
   </a>	 
 </div>
 </div>
@@ -376,83 +293,7 @@
 <br>
 
 
-	<!-- //welcome section -->
-	<!-- team -->
-	<!--<div class="team banner-bottom " id="team">
-		<div class="container">
-			<div class="team-head">
-				<h3>Our Designers</h3>
-			</div>
-			<div class="banner_bottom_grids">
-				<div class="col-md-3 agile_team_grid">
-					<div class="team_grid">
-						<img src="asdr.jpg" alt=" " class="img-responsive" />
-						<div class="team_grid_pos">
-							<div class="text">
-								<ul class="agileits_social_list">
-									<li><a href="#" class="agile_facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-									<li><a href="#" class="agile_twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-									<li><a href="#" class="agile_dribble"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
-								</ul>
-							</div>
-						</div>
-					</div>
-					<h4>Shawan</h4>
-					<p>Designer</p>
-				</div>
-				<div class="col-md-3 agile_team_grid">
-					<div class="team_grid">
-						<img src="IMG_8918.jpg" alt=" " class="img-responsive" />
-						<div class="team_grid_pos">
-							<div class="text">
-								<ul class="agileits_social_list">
-									<li><a href="#" class="agile_facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-									<li><a href="#" class="agile_twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-									<li><a href="#" class="agile_dribble"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
-								</ul>
-							</div>
-						</div>
-					</div>
-					<h4>Kashish Dodai</h4>
-					<p>Designer</p>
-				</div>
-				<div class="col-md-3 agile_team_grid">
-					<div class="team_grid">
-						<img src="IMG-20171215-WA0014.jpg" alt=" " class="img-responsive" />
-						<div class="team_grid_pos">
-							<div class="text">
-								<ul class="agileits_social_list">
-									<li><a href="#" class="agile_facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-									<li><a href="#" class="agile_twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-									<li><a href="#" class="agile_dribble"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
-								</ul>
-							</div>
-						</div>
-					</div>
-					<h4>Neha Lal</h4>
-					<p>Designer</p>
-				</div>
-				<div class="col-md-3 agile_team_grid">
-					<div class="team_grid">
-						<img src="surabhifinall.jpg" alt=" " class="img-responsive" />
-						<div class="team_grid_pos">
-							<div class="text">
-								<ul class="agileits_social_list">
-									<li><a href="#" class="agile_facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-									<li><a href="#" class="agile_twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-									<li><a href="#" class="w3_agile_dribble"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
-								</ul>
-							</div>
-						</div>
-					</div>
-					<h4>Surabhi Ramrakhiani</h4>
-					<p>Designer</p>
-				</div>
-
-				</div>
-				<div class="clearfix"> </div>
-			</div>
-		</div>-->
+	
 	
 	
 	</div>
@@ -484,8 +325,8 @@
 				</div>
 				<div class="col-md-3 gallery-grid">
 					<div class="wpf-demo-4">  
-						<a href="Sample3-02.png" class="jzBoxLink item-hover" title="Design 1">  
-							<img src="Sample3-02.png" alt=" " class="img-responsive"/>
+						<a href="sample2-port.png" class="jzBoxLink item-hover" title="Education">  
+							<img src="sample2-port.png" alt=" " class="img-responsive"/>
 							<div class="view-caption">
 								<p>Full View</p>
 							</div> 
@@ -494,8 +335,8 @@
 				</div>
 				<div class="col-md-3 gallery-grid">
 					<div class="wpf-demo-4">  
-						<a href="Sample1-01-01.png" class="jzBoxLink item-hover" title="Design 2">  
-							<img src="Sample1-01-01.png" alt=" " class="img-responsive" />
+						<a href="Sample1.png" class="jzBoxLink item-hover" title="Education">  
+							<img src="Sample1.png" alt=" " class="img-responsive" />
 							<div class="view-caption">
 								<p>Full View</p>
 							</div> 
@@ -720,20 +561,49 @@
 				</script>
 
 <!-- smooth scrolling -->
-	<script type="text/javascript">
-		$(document).ready(function() {
-		/*
-			var defaults = {
-			containerID: 'toTop', // fading element id
-			containerHoverID: 'toTopHover', // fading element hover id
-			scrollSpeed: 1200,
-			easingType: 'linear' 
-			};
-		*/								
-		$().UItoTop({ easingType: 'easeOutQuart' });
-		});
-	</script>
-	<a href="#home" id="toTop" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
+	<script>
+function myMap()
+{
+  myCenter=new google.maps.LatLng(41.878114, -87.629798);
+  var mapOptions= {
+    center:myCenter,
+    zoom:12, scrollwheel: false, draggable: false,
+    mapTypeId:google.maps.MapTypeId.ROADMAP
+  };
+  var map=new google.maps.Map(document.getElementById("googleMap"),mapOptions);
+
+  var marker = new google.maps.Marker({
+    position: myCenter,
+  });
+  marker.setMap(map);
+}
+
+// Modal Image Gallery
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+  var captionText = document.getElementById("caption");
+  captionText.innerHTML = element.alt;
+}
+
+
+// Toggle between showing and hiding the sidebar when clicking the menu icon
+var mySidebar = document.getElementById("mySidebar");
+
+function yourart_open() {
+    if (mySidebar.style.display === 'block') {
+        mySidebar.style.display = 'none';
+    } else {
+        mySidebar.style.display = 'block';
+    }
+}
+
+// Close the sidebar with the close button
+function yourart_close() {
+    mySidebar.style.display = "none";
+}
+</script>
+
 <!-- //smooth scrolling -->
 <script type="text/javascript" src="js/bootstrap-3.1.1.min.js"></script>
 </body>

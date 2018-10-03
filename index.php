@@ -323,6 +323,14 @@
 			</div>
 			<div class="gallery-grids-row">
 				<div class="col-md-3 gallery-grid">
+				<div class="wpf-demo-4">  
+						<a href="Sample3%20(1).png" class="jzBoxLink item-hover" title="Education">  
+							<img src="Sample3%20(1).png" alt=" " class="img-responsive"/>
+							<div class="view-caption">
+								<p>Full View</p>
+							</div> 
+						</a>    			
+					</div>
 				</div>
 				<div class="col-md-3 gallery-grid">
 					<div class="wpf-demo-4">  
@@ -345,6 +353,14 @@
 					</div>
 				</div>
 				<div class="col-md-3 gallery-grid">
+				<div class="wpf-demo-4">  
+						<a href="Sample1-01-01.png" class="jzBoxLink item-hover" title="Education">  
+							<img src="Sample1-01-01.png" alt=" " class="img-responsive" />
+							<div class="view-caption">
+								<p>Full View</p>
+							</div> 
+						</a>    			
+					</div>
 				
 				</div>
         <div class="clearfix"> </div>

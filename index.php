@@ -25,6 +25,7 @@
 <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" property="" />
 <link rel="shortcut icon" type="image/png" href="/favicon.png"/>
 <link rel="shortcut icon" type="image/png" href="fabiconn.png">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
 <!--fonts-->
 <link href="//fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
 <link href="//fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
@@ -275,11 +276,11 @@
   </div>
   
   <!-- Left and right controls -->
-  <a class="carousel-control-prev" href="#demo" data-slide="prev" style="color:black">
-    <span class="carousel-control-prev-icon" ></span>
+  <a class="carousel-control-prev" href="#demo" data-slide="prev" style="color:red ; font-weight:bold; font-size:50px">
+    <span class="fas fa-chevron-left" ></span>
   </a>
-  <a class="carousel-control-next" href="#demo" data-slide="next" style="color:black">
-    <span class="carousel-control-next-icon"></span>
+  <a class="carousel-control-next" href="#demo" data-slide="next" style="color:red ; font-weight:bold; font-size:50px">
+    <span class="fas fa-chevron-right"></span>
   </a>	 
 </div>
 </div>

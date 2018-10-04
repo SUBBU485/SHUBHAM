@@ -334,8 +334,8 @@
 				</div>
 				<div class="col-md-3 gallery-grid">
 					<div class="wpf-demo-4">  
-						<a href="sample2-port.png" class="jzBoxLink item-hover" title="Design 2">  
-							<img src="sample2-port.png" alt=" " class="img-responsive"/>
+						<a href="Sample1.png" class="jzBoxLink item-hover" title="Design 2">  
+							<img src="Sample1.png" alt=" " class="img-responsive"/>
 							<div class="view-caption">
 								<p>Full View</p>
 							</div> 
@@ -344,8 +344,8 @@
 				</div>
 				<div class="col-md-3 gallery-grid">
 					<div class="wpf-demo-4">  
-						<a href="Sample1.png" class="jzBoxLink item-hover" title="Design 3">  
-							<img src="Sample1.png" alt=" " class="img-responsive" />
+						<a href="sample2-port.png" class="jzBoxLink item-hover" title="Design 3">  
+							<img src="sample2-port.png" alt=" " class="img-responsive" />
 							<div class="view-caption">
 								<p>Full View</p>
 							</div> 

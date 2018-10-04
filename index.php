@@ -418,7 +418,7 @@
 		<div class="container">
 			<div class="footer-row">
 				<div class="col-md-3 footer-grids footer-address">
-                    <h3><a href="#"><img src="footer.png" style="width:200px;height:75px" > </a>
+                    <h3><a href="#">YOURART </a>
 					</h3>
 				</div>
 				<div class="col-md-6 footer-grids subscribe">

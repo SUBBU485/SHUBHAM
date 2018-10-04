@@ -416,7 +416,7 @@ ul.agile_footer_grid_list i.fa.fa-instagram{margin-right:1em;}
 .agile-footer-grid input[type="submit"]{outline:none;padding:0.6em 1em;background:#ff9900;border:none;font-size:14px;color:#fff;margin:1em 0 0;border:2px solid #ff9900;width:40%;text-transform:uppercase;}
 .agile-footer-grid input[type="submit"]:hover{border:2px solid #ff9900;background:none;}
 .agile-footer-grid li{color:gray;list-style:none;margin:1em 0;font-size:16px;}
-.footer-grids.footer-address a{border-top:2px solid #f6cc4c;border-bottom:2px solid #f6cc4c;color:#fff;padding:6px;}
+.footer-grids.footer-address a{border-top:2px solid #f6cc4c;border-bottom:2px solid #f6cc4c;color:orange;padding:6px;}
 .footer-grids.footer-address span{color:#f6cc4c;}
 .footer-grids.footer-address h3{letter-spacing:2px;font-size:2em;text-transform:uppercase;}
 .agile-footer-grid a:hover{color:#f6cc4c;}

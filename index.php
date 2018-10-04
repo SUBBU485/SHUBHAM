@@ -443,7 +443,7 @@
 					<div class="col-md-4 footer-grid footer-grid1 ">
 						<div class="footer-logo">
 							<a href="#">HOW YOU CAN ORDER ?</a>
-							<p>1. Whatsapp us at 8637282534</p>
+							<p style="color:gray">1. Whatsapp us at 8637282534</p>
 							<p>2. Contact us at 8637282534</p>
                             <P>3. Mail us at official.yourart@gmail.com</P>
 						</div>

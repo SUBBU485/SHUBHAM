@@ -65,6 +65,7 @@
     <a href="#home" class="yourart-bar-item yourart-button yourart-wide"><img src="newlogo.png" style="width:200px;height:75px;"></a>
     <!-- Right-sided navbar links -->
     <div class="yourart-right yourart-hide-small">
+       <br>
         <a href="#about" class="yourart-bar-item yourart-button"><b>ABOUT US</b></a>
         <a href="#team" class="yourart-bar-item yourart-button"><i class="fa fa-user"></i><b> TEAM</b></a>
         <a href="#gallery" class="yourart-bar-item yourart-button"><i class="fa fa-th"></i> <b>Gallery</b></a>

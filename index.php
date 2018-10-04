@@ -452,7 +452,7 @@
 						<h3>NAVIGATION</h3>
 						<ul>
 							<li> <a href="#about" class="scroll">About Us</a> </li>
-							
+							<li> <a href="#team" class="scroll">Team</a> </li>
 							<li> <a href="#gallery" class="scroll">Gallery</a> </li>
 							<li> <a href="#contact" class="scroll">Contact Us</a> </li>
 						</ul>

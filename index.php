@@ -325,8 +325,8 @@
 			<div class="gallery-grids-row">
 				<div class="col-md-3 gallery-grid">
 				<div class="wpf-demo-4">  
-						<a href="Sample3%20(1).png" class="jzBoxLink item-hover" title="Design 1">  
-							<img src="Sample3%20(1).png" alt=" " class="img-responsive"/>
+						<a href="Sample3%20(1)%20-%20Copy.png" class="jzBoxLink item-hover" title="Design 1">  
+							<img src="Sample3%20(1)%20-%20Copy.png" alt=" " class="img-responsive"/>
 							<div class="view-caption">
 								<p>Full View</p>
 							</div> 

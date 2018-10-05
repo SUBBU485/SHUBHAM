@@ -125,7 +125,7 @@
 		</div>
 	</div>
 	
-<div class="container" id="team">
+<!--div class="container" id="team">
 	<div class="team-head">
 				<h3>Our Team</h3>
 			</div>
@@ -276,7 +276,6 @@
         </div>
   </div>
   
-  <!-- Left and right controls -->
   <a class="carousel-control-prev" href="#demo" data-slide="prev" style="color:black ; font-weight:bold; font-size:50px">
     <span class="fas fa-chevron-left" ></span>
   </a>
@@ -284,7 +283,7 @@
     <span class="fas fa-chevron-right"></span>
   </a>	 
 </div>
-</div>
+</div-->
 
     
     
@@ -298,7 +297,7 @@
 	
 	
 	
-	</div>
+	</div>  
 
 
 <!-- //team -->

@@ -302,7 +302,7 @@
 
 <!-- //team -->
 <!-- gallery -->
-	<div class="gallery" id="gallery">
+	<!--div class="gallery" id="gallery">
 	 <div class="heading">
 				<h3>Our Gallery</h3>
 			</div>

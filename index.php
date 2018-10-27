@@ -67,7 +67,6 @@
     <div class="yourart-right yourart-hide-small">
        <br>
         <a href="#about" class="yourart-bar-item yourart-button"><b>ABOUT US</b></a>
-        <a href="#team" class="yourart-bar-item yourart-button"><i class="fa fa-user"></i><b> TEAM</b></a>
         <a href="#gallery" class="yourart-bar-item yourart-button"><i class="fa fa-th"></i> <b>Gallery</b></a>
         <a href="#foot" class="yourart-bar-item yourart-button"><i class="fa fa-envelope"></i> <b>CONTACT</b></a>
     </div>
@@ -83,7 +82,6 @@
 <nav class="yourart-sidebar yourart-bar-block yourart-black yourart-card yourart-animate-left yourart-hide-medium yourart-hide-large" style="display:none" id="mySidebar">
   <a href="javascript:void(0)" onclick="yourart_close()" class="yourart-bar-item yourart-button yourart-large yourart-padding-16">Close &times;</a>
   <a href="#about" onclick="yourart_close()" class="yourart-bar-item yourart-button">ABOUT US</a>
-  <a href="#team" onclick="yourart_close()" class="yourart-bar-item yourart-button">TEAM</a>
   <a href="#gallery" onclick="yourart_close()" class="yourart-bar-item yourart-button">GALLERY</a>
   <a href="#foot" onclick="yourart_close()" class="yourart-bar-item yourart-button">CONTACT</a>
 </nav>
@@ -324,8 +322,8 @@
 			<div class="gallery-grids-row">
 				<div class="col-md-3 gallery-grid">
 				<div class="wpf-demo-4">  
-						<a href="Sample3%20(1)%20-%20Copy.png" class="jzBoxLink item-hover" title="Design 1">  
-							<img src="Sample3%20(1)%20-%20Copy.png" alt=" " class="img-responsive"/>
+						<a href="Got-2-01.png" class="jzBoxLink item-hover" title="Design 1">  
+							<img src="GOT-2-01.png" alt=" " class="img-responsive"/>
 							<div class="view-caption">
 								<p>Full View</p>
 							</div> 
@@ -344,8 +342,8 @@
 				</div>
 				<div class="col-md-3 gallery-grid">
 					<div class="wpf-demo-4">  
-						<a href="sample2-port.png" class="jzBoxLink item-hover" title="Design 3">  
-							<img src="sample2-port.png" alt=" " class="img-responsive" />
+						<a href="FB-NEW-01-01.png" class="jzBoxLink item-hover" title="Design 3">  
+							<img src="FB-NEW-01-01.png" alt=" " class="img-responsive" />
 							<div class="view-caption">
 								<p>Full View</p>
 							</div> 

@@ -67,7 +67,7 @@
     <div class="yourart-right yourart-hide-small">
        <br>
         <a href="#about" class="yourart-bar-item yourart-button"><b>ABOUT US</b></a>
-        <a href="#gallery" class="yourart-bar-item yourart-button"><i class="fa fa-th"></i> <b>Gallery</b></a>
+        <a href="#gallery" class="yourart-bar-item yourart-button"><i class="fa fa-th"></i> <b>DESIGNS</b></a>
         <a href="#foot" class="yourart-bar-item yourart-button"><i class="fa fa-envelope"></i> <b>CONTACT</b></a>
     </div>
     <!-- Hide right-floated links on small screens and replace them with a menu icon -->
@@ -82,7 +82,7 @@
 <nav class="yourart-sidebar yourart-bar-block yourart-black yourart-card yourart-animate-left yourart-hide-medium yourart-hide-large" style="display:none" id="mySidebar">
   <a href="javascript:void(0)" onclick="yourart_close()" class="yourart-bar-item yourart-button yourart-large yourart-padding-16">Close &times;</a>
   <a href="#about" onclick="yourart_close()" class="yourart-bar-item yourart-button">ABOUT US</a>
-  <a href="#gallery" onclick="yourart_close()" class="yourart-bar-item yourart-button">GALLERY</a>
+  <a href="#gallery" onclick="yourart_close()" class="yourart-bar-item yourart-button">DESIGNS</a>
   <a href="#foot" onclick="yourart_close()" class="yourart-bar-item yourart-button">CONTACT</a>
 </nav>
     
@@ -302,7 +302,7 @@
 <!-- gallery -->
 	<!--div class="gallery" id="gallery">
 	 <div class="heading">
-				<h3>Our Gallery</h3>
+				<h3>Our Designs</h3>
 			</div>
 	 <div class="grids gal-agileits">
 			<div id="jzBox" class="jzBox">

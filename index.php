@@ -51,6 +51,10 @@
                 padding-top: 60px;
             }
         }
+           .responsive {
+    width: 100%;
+
+}
     </style>
 </head>
 <body>
@@ -89,11 +93,11 @@
 		
 		<!-- //Navigation -->
 		<!-- banner-slider -->
-			<video autoplay controls>
-  <source src="yourfinalvid11.mp4" type="video/mp4">
-  <source src="yourfinalvid11.ogg" type="video/ogg">
-</video>
-			
+			<br>
+		<br>
+		<br>
+		<br>
+  <img src="copy%20-%20Copy.png" alt="Nature" class="responsive" height="530">
 	<!-- welcome section -->
 	<div class="welcome" id="about">
 		<div class="container">

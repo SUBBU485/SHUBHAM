@@ -93,11 +93,10 @@
 		
 		<!-- //Navigation -->
 		<!-- banner-slider -->
-			<br>
-		<br>
-		<br>
-		<br>
-  <img src="copy%20-%20Copy.png" alt="Nature" class="responsive" height="530">
+			<video autoplay controls>
+  <source src="website%20video.mp4" type="video/mp4">
+  <source src="website%20video.ogg" type="video/ogg">
+</video>
 	<!-- welcome section -->
 	<div class="welcome" id="about">
 		<div class="container">

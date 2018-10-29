@@ -119,7 +119,7 @@
                      <p>We also want to reduce the price of notebooks. This would enable the youth to get good unique notebooks at reasonable prices. We have tried to utilize the unused pages and covers on notebooks to help companies promote their brands.</p>
                      <p>We also want to aim youth based startups and companies as it would be beneficial for them to target their potential customers through this way of marketing.</p>
 				 </div>
-				 <div class="clearfix"></div>
+				
 			  </div>
 			  </div>
 		</div>

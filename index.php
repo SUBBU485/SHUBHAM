@@ -440,7 +440,7 @@
                             <ul>
 							<li><a href="https://www.facebook.com/official.yourart" style="color:white ; font-weight:bold; font-size:30px"><i class="fab fa-facebook-f"></i></a></li>
 							<li><a href="https://www.instagram.com/yourart1" style="color:white ; font-weight:bold; font-size:30px"><i class="fab fa-instagram"></i></a></li>
-							<li><a href="#" style="color:white ; font-weight:bold; font-size:30px"><i class="fab fa-linkedin"></i></a></li>
+							<li><a href="https://www.linkedin.com/company/yourart/?originalSubdomain=in" style="color:white ; font-weight:bold; font-size:30px"><i class="fab fa-linkedin"></i></a></li>
 						</ul>
 					</div>
 				</div>

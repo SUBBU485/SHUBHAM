@@ -300,7 +300,7 @@
 
 <!-- //team -->
 <!-- gallery -->
-	<!--div class="gallery" id="gallery">
+	<div class="gallery" id="gallery">
 	 <div class="heading">
 				<h3>Our Designs</h3>
 			</div>
@@ -320,52 +320,61 @@
 				</div>
 			</div>
 			<div class="gallery-grids-row">
-				<div class="col-md-3 gallery-grid">
-				<div class="wpf-demo-4">  
-						<a href="Got-2-01.png" class="jzBoxLink item-hover" title="Design 1">  
-							<img src="GOT-2-01.png" alt=" " class="img-responsive"/>
-							<div class="view-caption">
-								<p>Full View</p>
-							</div> 
-						</a>    			
-					</div>
-				</div>
-				<div class="col-md-3 gallery-grid">
-					<div class="wpf-demo-4">  
-						<a href="Sample1.png" class="jzBoxLink item-hover" title="Design 2">  
-							<img src="Sample1.png" alt=" " class="img-responsive"/>
-							<div class="view-caption">
-								<p>Full View</p>
-							</div> 
-						</a>    			
-					</div>
-				</div>
-				<div class="col-md-3 gallery-grid">
-					<div class="wpf-demo-4">  
-						<a href="FB-NEW-01-01.png" class="jzBoxLink item-hover" title="Design 3">  
-							<img src="FB-NEW-01-01.png" alt=" " class="img-responsive" />
-							<div class="view-caption">
-								<p>Full View</p>
-							</div> 
-						</a>    			
-					</div>
-				</div>
-				<div class="col-md-3 gallery-grid">
-				<div class="wpf-demo-4">  
-						<a href="Sample1-01-01.png" class="jzBoxLink item-hover" title="Design 4">  
-							<img src="Sample1-01-01.png" alt=" " class="img-responsive" />
-							<div class="view-caption">
-								<p>Full View</p>
-							</div> 
-						</a>    			
-					</div>
+				<div class="col-md-4"> 
 				
+                    <p><br><br><b>YourArt official "Game of Thrones" Notebook. This design is a must have for all GOT fans! It will remind you about the vast world of Westeros, where the kingdom's seven noble families vie for control of the iron Throne.Delve into the mystery, love, suspense, treachery, greed, and magic</b></p>
+				   			
+					</div>
 				</div>
+				<div class="col-md-4">
+					<div class="wpf-demo-4">  
+						<a href="kasishdesign.jpg" class="jzBoxLink item-hover" title="Design 2">  
+							<img src="kasishdesign.jpg" alt=" " class="img-responsive"/>
+							<div class="view-caption">
+								<p>Full View</p>
+							</div> 
+						</a>    			
+					</div>
+				</div>
+				<div class="col-md-4">
+  
+				
+                    <p><br><br><b>that has captivated audiences and readers alike. Now you can bring a piece of westeros into your own castle with our notebooks featuring characters and sigils from the kingdom's noble families.</b></p>
+							 
+				  			
+					</div>
+				</div>
+				
         <div class="clearfix"> </div>
          </div>
-        </div>
-    </div>
-				<!--div class="col-md-3 gallery-grid">
+        	<div class="col-md-4"> 
+				
+                <p><br><br><br><b>The doodles in the design show the emotions that we go through in our daily life.The girl in the design symbolises a calm stature which helps her sail through all these emotions and challenges,</b></p>
+				   			
+					</div>
+				<div class="col-md-4">
+					<div class="wpf-demo-4">  
+						<a href="nehadesign.jpg" class="jzBoxLink item-hover" title="Design 2">  
+							<img src="nehadesign.jpg" alt=" " class="img-responsive"/>
+							<div class="view-caption">
+								<p>Full View</p>
+							</div> 
+						</a>    			
+					</div>
+				</div>
+				<div class="col-md-4">
+  
+				
+                    <p><br><br><br><b> be it good or bad.A calm mind with a smile can help us face all our struggles and help us enjoy even in bad times.</b></p>
+							 
+				  			
+					</div>
+				
+        <div class="clearfix"> </div>
+        
+        <br>
+        <br>
+        <br>	<!--div class="col-md-3 gallery-grid">
 					<div class="wpf-demo-4">  
 						<a href="jpeg(1).jpg" class="jzBoxLink item-hover" title="Education">  
 							<img src="jpeg(1).jpg" alt=" " class="img-responsive" />
@@ -441,6 +450,7 @@
 					<div class="col-md-4 footer-grid footer-grid1 ">
 						<div class="footer-logo">
 							<a href="#">HOW YOU CAN ORDER ?</a>
+							 <p>Send your Name, Hostel, Design, Quantity and Calling number.</p>
 							<p style="color:gray">1. Whatsapp us at 8637282534</p>
 							<p style="color:gray">2. Contact us at 8637282534</p>
                             <P style="color:gray">3. Mail us at official.yourart@gmail.com</P>
@@ -450,8 +460,8 @@
 						<h3>NAVIGATION</h3>
 						<ul>
 							<li> <a href="#about" class="scroll">About Us</a> </li>
-							<li> <a href="#team" class="scroll">Team</a> </li>
-							<li> <a href="#gallery" class="scroll">Gallery</a> </li>
+
+							<li> <a href="#gallery" class="scroll">Designs</a> </li>
 							<li> <a href="#contact" class="scroll">Contact Us</a> </li>
 						</ul>
 					</div>

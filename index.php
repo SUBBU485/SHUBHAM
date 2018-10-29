@@ -51,10 +51,6 @@
                 padding-top: 60px;
             }
         }
-           .responsive {
-    width: 100%;
-
-}
     </style>
 </head>
 <body>

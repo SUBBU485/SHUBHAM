@@ -95,7 +95,7 @@
 		<!-- banner-slider -->
 			<br>
 		<br>
-  <img src="copy%20-%20Copy.png" alt="Nature" class="responsive" height="530">
+  <img src="copy_20-_20Copy.png" alt="Nature" class="responsive" height="530">
 	<!-- welcome section -->
 	<div class="welcome" id="about">
 		<div class="container">

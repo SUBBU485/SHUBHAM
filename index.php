@@ -95,6 +95,7 @@
 		<!-- banner-slider -->
 			<br>
 		<br>
+		<br>
   <img src="coverpage.jpg" alt="Nature" class="responsive" height="530">
 	<!-- welcome section -->
 	<div class="welcome" id="about">

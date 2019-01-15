@@ -95,7 +95,7 @@
 		<!-- banner-slider -->
 			<br>
 		<br>
-  <img src="LANDSCAPE%20POSTER-%20SITE-01.png" alt="Nature" class="responsive" height="530">
+  <img src="coverpage.jpg" alt="Nature" class="responsive" height="530">
 	<!-- welcome section -->
 	<div class="welcome" id="about">
 		<div class="container">

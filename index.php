@@ -97,7 +97,7 @@
 		<br>
 		<br>
   <img src="coverpage.jpg" alt="Nature" class="responsive" height="530">
-    <p>REVEALING NEW DESIGNS! AVAIL DISCOUNT BY EARLY GRAB</p>
+    <p><b><i>REVEALING NEW DESIGNS! AVAIL DISCOUNT BY EARLY GRAB</i></b></p>
 	<!-- welcome section -->
 	<div class="welcome" id="about">
 		<div class="container">
